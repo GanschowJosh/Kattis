@@ -1,3 +1,0 @@
-C:/Users/DSU Student/OneDrive/School/Competitive Programming/Kattis/cmake-build-debug/CMakeFiles/Kattis.dir
-C:/Users/DSU Student/OneDrive/School/Competitive Programming/Kattis/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/DSU Student/OneDrive/School/Competitive Programming/Kattis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
