@@ -7,7 +7,7 @@ def isValid(probs, k):
     counter = Counter()
     for problem in probs:
         counter.update(problem)
-    print(counter)
+    #print(counter)
     
     return all(count <= k//2 for count in counter.values())
 
@@ -24,5 +24,5 @@ for _ in range(n):
     topics = tuple(inp[1:])
     probs.append(topics)
 
-print(probs)
+#print(probs)
 print(countValid(n, k, probs))
