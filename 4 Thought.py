@@ -1,34 +1,32 @@
-ops = ['+', '-', '*', '/']
-evals = {}
+ops = ["*","+","-","//"]*4
+#print(ops)
 
-def ev(a, b, op):
-    if op == '/':
-        result = eval(str(a) + str(op) + str(b))
-        return str(int(result)) if result.is_integer() else "{:.6f}".format(result).lstrip('0') or '0'
-    else:
-        return str(eval(str(a) + str(op) + str(b)))
+from collections import defaultdict
+from itertools import combinations
+eval_map = defaultdict(list)
 
-for i in range(4):
-    for j in range(4):
-        for k in range(4):
-            expression = '4' + ops[i] + '4' + ops[j] + '4' + ops[k] + '4'
-            print(expression)
-            # Process * and / from left to right
-            x = 1
-            while x < len(expression):
-                if expression[x] == '*' or expression[x] == '/':
-                    expression = expression[:x-1] + ev(expression[x-1], expression[x+1], expression[x]) + expression[x+2:]
-                else:
-                    x += 2
+def find_all_evals():
+  for comb in combinations(ops, 3):
+    opa, opb, opc = comb
+    curr = "4 " + opa + " 4 " + opb + " 4 " + opc + " 4"
+    e = eval(curr)
+    if opa == "//":
+      opa = "/"
+    if opb == "//":
+      opb = "/"
+    if opc == "//":
+      opc = "/"
+    curr = "4 " + opa + " 4 " + opb + " 4 " + opc + " 4"
+    eval_map[e].append(curr)
 
-            # Process + and - from left to right
-            y = 1
-            while y < len(expression):
-                if expression[y] == '+' or expression[y] == '-':
-                    expression = expression[:y-1] + ev(expression[y-1], expression[y+1], expression[y]) + expression[y+2:]
-                else:
-                    y += 2
-            
-            evals[expression] = eval(expression)
+find_all_evals()
+#print(eval_map)
 
-print(evals)
+m = int(input())
+
+for _ in range(m):
+  n = int(input())
+  if eval_map[n]:
+    print(f"{eval_map[n][0]} = {n}")
+  else:
+    print("no solution")
