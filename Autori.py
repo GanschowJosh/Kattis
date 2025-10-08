@@ -2,8 +2,8 @@ inp = input()
 abbr = inp[0]
 prev = ''
 for letter in inp:
-    if prev == '-':
-        abbr += letter
-    prev = letter
+  if prev == '-':
+    abbr += letter
+  prev = letter
 
 print(abbr)

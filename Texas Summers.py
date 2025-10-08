@@ -2,36 +2,36 @@ import heapq
 import math
 
 def calculate_distance(point1, point2, sun_exposure):
-    distance = math.sqrt((point1[0] - point2[0])**2 + (point1[1] - point2[1])**2)
-    return distance * math.exp(sun_exposure)
+  distance = math.sqrt((point1[0] - point2[0])**2 + (point1[1] - point2[1])**2)
+  return distance * math.exp(sun_exposure)
 
 def dijkstra(graph, start):
-    distances = {node: float('infinity') for node in graph}
-    distances[start] = 0
-    previous_nodes = {node: None for node in graph}
-    queue = [(0, start)]
+  distances = {node: float('infinity') for node in graph}
+  distances[start] = 0
+  previous_nodes = {node: None for node in graph}
+  queue = [(0, start)]
 
-    while queue:
-        current_distance, current_node = heapq.heappop(queue)
-        if current_distance > distances[current_node]:
-            continue
+  while queue:
+    current_distance, current_node = heapq.heappop(queue)
+    if current_distance > distances[current_node]:
+      continue
 
-        for neighbor, weight in graph[current_node].items():
-            distance = current_distance + weight
-            if distance < distances[neighbor]:
-                distances[neighbor] = distance
-                previous_nodes[neighbor] = current_node
-                heapq.heappush(queue, (distance, neighbor))
+    for neighbor, weight in graph[current_node].items():
+      distance = current_distance + weight
+      if distance < distances[neighbor]:
+        distances[neighbor] = distance
+        previous_nodes[neighbor] = current_node
+        heapq.heappush(queue, (distance, neighbor))
 
-    return distances, previous_nodes
+  return distances, previous_nodes
 
 def shortest_path(previous_nodes, start, end):
-    path = []
-    while end is not None:
-        path.append(end)
-        end = previous_nodes[end]
-    path.reverse()
-    return path
+  path = []
+  while end is not None:
+    path.append(end)
+    end = previous_nodes[end]
+  path.reverse()
+  return path
 
 n = int(input())
 shady_spots = [tuple(map(int, input().split())) for _ in range(n)]

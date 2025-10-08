@@ -6,9 +6,9 @@ notes = sorted(notes)
 buckets = 1
 startNote = notes[0]
 for note in notes[1:]:
-    if note - startNote > d:
-        buckets+=1
-        startNote = note
-        
+  if note - startNote > d:
+    buckets+=1
+    startNote = note
     
+  
 print(buckets)
