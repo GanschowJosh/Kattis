@@ -1,6 +1,5 @@
 from collections import defaultdict
 def next_int(it, chart_string):
-  """Read an integer from the string iterator."""
   x = 0
   while it < len(chart_string) and chart_string[it].isdigit():
     x = x * 10 + int(chart_string[it])
@@ -8,7 +7,6 @@ def next_int(it, chart_string):
   return x, it
 
 def parse_chart(chart_string):
-  """Parse a chart string into a hierarchy."""
   it = 0
   org = defaultdict(set)
   roots = []
@@ -29,10 +27,10 @@ def parse_chart(chart_string):
     elif char == ')':
       it += 1
       roots.pop()
-    else:  # The default case: a department number
+    else:
       x, it = next_int(it, chart_string)
-      org[roots[-1]].add(x)  # Add the child to the current root
-      roots.append(x)  # Move to the new department
+      org[roots[-1]].add(x)
+      roots.append(x)
 
   return head, org
 
