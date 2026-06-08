@@ -12,7 +12,6 @@
 |[A Classy Problem](https://open.kattis.com/problems/classy)|classy|Easy(2.7)|True|
 |[A Different Problem](https://open.kattis.com/problems/different)|different|Easy(2.4)|True|
 |[A Favourable Ending](https://open.kattis.com/problems/favourable)|favourable|Medium(2.8)|True|
-|[A Favourable Ending](https://open.kattis.com/problems/favourable)|favourable|Medium(2.8)|True|
 |[A Feast For Cats](https://open.kattis.com/problems/cats)|cats|Medium(4.3)|True|
 |[A Furious Cocktail](https://open.kattis.com/problems/cocktail)|cocktail|Easy(2.5)|True|
 |[A Little to the Right](https://open.kattis.com/problems/alittletotheright)|alittletotheright|Medium(4.6)|True|
@@ -40,7 +39,6 @@
 |[Breaking Maze](https://open.kattis.com/problems/breakmaze)|breakmaze|Medium(3.3)|True|
 |[Busy Schedule](https://open.kattis.com/problems/busyschedule)|busyschedule|Easy(2.1)|True|
 |[Button Bashing](https://open.kattis.com/problems/buttonbashing)|buttonbashing|Easy(2.6)|True|
-|[Button Bashing](https://open.kattis.com/problems/buttonbashing)|buttonbashing|Easy(2.6)|True|
 |[CD](https://open.kattis.com/problems/cd)|cd|Medium(3.1)|True|
 |[Ceiling Function](https://open.kattis.com/problems/ceiling)|ceiling|Easy(2.1)|True|
 |[Champernowne Verification](https://open.kattis.com/problems/champernowneverification)|champernowneverification|Easy(1.5)|True|
@@ -48,7 +46,6 @@
 |[Cold-puter Science](https://open.kattis.com/problems/cold)|cold|Easy(1.3)|True|
 |[Digit Swap](https://open.kattis.com/problems/digitswap)|digitswap|Easy(1.2)|True|
 |[Digits](https://open.kattis.com/problems/digits)|digits|Medium(2.9)|True|
-|[Diverse Contest](https://open.kattis.com/problems/diversecontest)|diversecontest|Easy(2.6)|True|
 |[Diverse Contest](https://open.kattis.com/problems/diversecontest)|diversecontest|Easy(2.6)|True|
 |[Efficient Exchange](https://open.kattis.com/problems/efficientexchange)|efficientexchange|Medium(4.4)|True|
 |[Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)|elevatortrouble|Easy(1.9)|True|
@@ -95,18 +92,16 @@
 |[Triple Sevens](https://open.kattis.com/problems/triplesevens)|triplesevens|Easy(1.5)|True|
 |[Two Charts Become One](https://open.kattis.com/problems/twochartsbecomeone)|twochartsbecomeone|Medium(4.3)|True|
 |[Unique Snowflakes](https://open.kattis.com/problems/snowflakes)|snowflakes|Medium(3.8)|True|
-|[Unique Snowflakes](https://open.kattis.com/problems/snowflakes)|snowflakes|Medium(3.8)|True|
 |[Unlock Pattern](https://open.kattis.com/problems/unlockpattern)|unlockpattern|Easy(1.9)|True|
 |[Watering Grass](https://open.kattis.com/problems/grass)|grass|Medium(3.2)|True|
 |[Waterworld](https://open.kattis.com/problems/waterworld)|waterworld|Easy(2.1)|True|
-|[Zagrade](https://open.kattis.com/problems/zagrade)|zagrade|Easy(2.7)|True|
 |[Zagrade](https://open.kattis.com/problems/zagrade)|zagrade|Easy(2.7)|True|
 |[Óvissa](https://open.kattis.com/problems/ovissa)|ovissa|Easy(1.1)|True|
 
 
 ---
-Total solved: 94
+Total solved: 89
 
 Total unsolved: 7
 
-Average difficulty solved: 1.8761538461538463
+Average difficulty solved: 1.7646153846153845
