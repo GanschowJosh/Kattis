@@ -33,6 +33,7 @@ problems = []
 failed = []
 seen=set()
 for f in files:
+  pr=None
   if f.split(".")[-1] not in ["py","cpp","c"]: continue
   problem_id = f.split(".")[0].split("_")[0]
   if problem_id in seen:
