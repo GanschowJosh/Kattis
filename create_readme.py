@@ -6,7 +6,7 @@ env_keys={}
 with open(".env", "r") as f:
   lines=f.readlines()
   for line in lines:
-    k,v=line.split("=")
+    k,v=line.strip().split("=",1)
     env_keys[k]=v
 
 kt = OpenKattis(username="joshua-ganschow", password=env_keys['kattis_password'])
