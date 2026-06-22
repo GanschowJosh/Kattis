@@ -44,6 +44,7 @@
 |[Champernowne Verification](https://open.kattis.com/problems/champernowneverification)|champernowneverification|Easy(1.5)|True|
 |[Coast Length](https://open.kattis.com/problems/coast)|coast|Easy(2.5)|True|
 |[Cold-puter Science](https://open.kattis.com/problems/cold)|cold|Easy(1.3)|True|
+|[Cookie Monster Concussion](https://open.kattis.com/problems/cookiemonsterconcussion)|cookiemonsterconcussion|Easy(2.1)|True|
 |[Digit Swap](https://open.kattis.com/problems/digitswap)|digitswap|Easy(1.2)|True|
 |[Digits](https://open.kattis.com/problems/digits)|digits|Medium(2.9)|True|
 |[Diverse Contest](https://open.kattis.com/problems/diversecontest)|diversecontest|Easy(2.6)|True|
@@ -101,8 +102,8 @@
 
 
 ---
-Total solved: 90
+Total solved: 91
 
 Total unsolved: 7
 
-Average difficulty solved: 1.7340909090909096
+Average difficulty solved: 1.7368421052631582
