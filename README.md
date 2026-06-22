@@ -31,6 +31,7 @@
 |[Autori](https://open.kattis.com/problems/autori)|autori|Easy(1.2)|True|
 |[Baby Shark](https://open.kattis.com/problems/babyshark)|babyshark|Easy(1.9)|True|
 |[Bank Queue](https://open.kattis.com/problems/bank)|bank|Easy(2.3)|True|
+|[Bard](https://open.kattis.com/problems/bard)|bard|Easy(2.2)|True|
 |[Basic Programming 1](https://open.kattis.com/problems/basicprogramming1)|basicprogramming1|Medium(3.7)|True|
 |[Birds on a Wire](https://open.kattis.com/problems/birds)|birds|Easy(2.1)|True|
 |[Block Crusher](https://open.kattis.com/problems/blockcrusher)|blockcrusher|Medium(3.1)|True|
@@ -102,8 +103,8 @@
 
 
 ---
-Total solved: 91
+Total solved: 92
 
 Total unsolved: 7
 
-Average difficulty solved: 1.7368421052631582
+Average difficulty solved: 1.7402985074626869
