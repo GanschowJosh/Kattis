@@ -57,6 +57,7 @@
 |[Grid](https://open.kattis.com/problems/grid)|grid|Easy(2.5)|True|
 |[HARDFLOR](https://open.kattis.com/problems/hardflor)|hardflor|Easy(1.9)|True|
 |[Hay Points](https://open.kattis.com/problems/haypoints)|haypoints|Easy(1.9)|True|
+|[Highest Hill](https://open.kattis.com/problems/highesthill)|highesthill|Medium(4.3)|True|
 |[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)|hissingmicrophone|Easy(1.2)|True|
 |[I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)|everywhere|Easy(1.4)|True|
 |[Imperfect GPS](https://open.kattis.com/problems/imperfectgps)|imperfectgps|Medium(3.0)|True|
@@ -103,8 +104,8 @@
 
 
 ---
-Total solved: 92
+Total solved: 93
 
 Total unsolved: 7
 
-Average difficulty solved: 1.7251851851851852
+Average difficulty solved: 1.7570370370370372
