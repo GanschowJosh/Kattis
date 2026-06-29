@@ -9,17 +9,17 @@
 |[4 thought](https://open.kattis.com/problems/4thought)|4thought|Medium(2.9)|True|
 |[99 Problems](https://open.kattis.com/problems/99problems)|99problems|Easy(2.6)|True|
 |[A Cappella Recording](https://open.kattis.com/problems/acappellarecording)|acappellarecording|Easy(2.1)|True|
-|[A Classy Problem](https://open.kattis.com/problems/classy)|classy|Easy(2.7)|True|
+|[A Classy Problem](https://open.kattis.com/problems/classy)|classy|Medium(2.8)|True|
 |[A Different Problem](https://open.kattis.com/problems/different)|different|Easy(2.3)|True|
-|[A Favourable Ending](https://open.kattis.com/problems/favourable)|favourable|Medium(2.8)|True|
+|[A Favourable Ending](https://open.kattis.com/problems/favourable)|favourable|Easy(2.7)|True|
 |[A Feast For Cats](https://open.kattis.com/problems/cats)|cats|Medium(4.3)|True|
 |[A Furious Cocktail](https://open.kattis.com/problems/cocktail)|cocktail|Easy(2.6)|True|
 |[A Little to the Right](https://open.kattis.com/problems/alittletotheright)|alittletotheright|Medium(4.6)|True|
-|[A Multiplication Game](https://open.kattis.com/problems/amultiplicationgame)|amultiplicationgame|Medium(2.9)|True|
+|[A Multiplication Game](https://open.kattis.com/problems/amultiplicationgame)|amultiplicationgame|Medium(2.8)|True|
 |[A Pivotal Question](https://open.kattis.com/problems/apivotalquestion)|apivotalquestion|Medium(3.3)|True|
 |[A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin)|aprizenoonecanwin|Easy(2.7)|True|
 |[A Rank Problem](https://open.kattis.com/problems/rankproblem)|rankproblem|Medium(3.0)|True|
-|[A Tree and Two Edges](https://open.kattis.com/problems/atreeandtwoedges)|atreeandtwoedges|Hard(7.2)|False|
+|[A Tree and Two Edges](https://open.kattis.com/problems/atreeandtwoedges)|atreeandtwoedges|Hard(7.0)|False|
 |[A1 Paper](https://open.kattis.com/problems/a1paper)|a1paper|Medium(4.5)|True|
 |[ABC String](https://open.kattis.com/problems/abcstring)|abcstring|Medium(4.4)|False|
 |[Abridged Reading](https://open.kattis.com/problems/abridgedreading)|abridgedreading|Medium(4.7)|True|
@@ -29,9 +29,9 @@
 |[Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)|artichoke|Easy(2.3)|True|
 |[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|apaxiaaans|Easy(1.3)|True|
 |[Autori](https://open.kattis.com/problems/autori)|autori|Easy(1.2)|True|
-|[Baby Shark](https://open.kattis.com/problems/babyshark)|babyshark|Easy(1.9)|True|
-|[Bank Queue](https://open.kattis.com/problems/bank)|bank|Easy(2.3)|True|
-|[Bard](https://open.kattis.com/problems/bard)|bard|Easy(2.2)|True|
+|[Baby Shark](https://open.kattis.com/problems/babyshark)|babyshark|Easy(2.0)|True|
+|[Bank Queue](https://open.kattis.com/problems/bank)|bank|Easy(2.2)|True|
+|[Bard](https://open.kattis.com/problems/bard)|bard|Easy(2.3)|True|
 |[Basic Programming 1](https://open.kattis.com/problems/basicprogramming1)|basicprogramming1|Medium(3.7)|True|
 |[Birds on a Wire](https://open.kattis.com/problems/birds)|birds|Easy(2.1)|True|
 |[Block Crusher](https://open.kattis.com/problems/blockcrusher)|blockcrusher|Medium(3.1)|True|
@@ -40,8 +40,8 @@
 |[Breaking Maze](https://open.kattis.com/problems/breakmaze)|breakmaze|Medium(3.0)|True|
 |[Busy Schedule](https://open.kattis.com/problems/busyschedule)|busyschedule|Easy(2.1)|True|
 |[Button Bashing](https://open.kattis.com/problems/buttonbashing)|buttonbashing|Easy(2.6)|True|
-|[CD](https://open.kattis.com/problems/cd)|cd|Medium(3.1)|True|
-|[Ceiling Function](https://open.kattis.com/problems/ceiling)|ceiling|Easy(2.1)|True|
+|[CD](https://open.kattis.com/problems/cd)|cd|Medium(3.0)|True|
+|[Ceiling Function](https://open.kattis.com/problems/ceiling)|ceiling|Easy(2.0)|True|
 |[Champernowne Verification](https://open.kattis.com/problems/champernowneverification)|champernowneverification|Easy(1.5)|True|
 |[Coast Length](https://open.kattis.com/problems/coast)|coast|Easy(2.5)|True|
 |[Cold-puter Science](https://open.kattis.com/problems/cold)|cold|Easy(1.3)|True|
@@ -65,7 +65,7 @@
 |[Jack and Jill](https://open.kattis.com/problems/jackandjill)|jackandjill|Medium(3.9)|True|
 |[Join Strings](https://open.kattis.com/problems/joinstrings)|joinstrings|Medium(4.6)|True|
 |[Jumbled Compass](https://open.kattis.com/problems/compass)|compass|Easy(1.9)|True|
-|[Knapsack](https://open.kattis.com/problems/knapsack)|knapsack|Medium(3.4)|True|
+|[Knapsack](https://open.kattis.com/problems/knapsack)|knapsack|Medium(3.2)|True|
 |[Menu Updates](https://open.kattis.com/problems/menuupdates)|menuupdates|Medium(3.4)|True|
 |[Minimum Scalar Product](https://open.kattis.com/problems/minimumscalar)|minimumscalar|Easy(1.5)|True|
 |[Miði](https://open.kattis.com/problems/midi)|midi|Easy(2.1)|True|
@@ -75,7 +75,7 @@
 |[NOP](https://open.kattis.com/problems/nop)|nop|Easy(1.9)|True|
 |[Oddities](https://open.kattis.com/problems/oddities)|oddities|Easy(1.3)|True|
 |[Palindromic Paths](https://open.kattis.com/problems/palindromicpath)|palindromicpath|Medium(4.9)|True|
-|[Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon)|peachpowderpolygon|Easy(1.9)|True|
+|[Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon)|peachpowderpolygon|Easy(2.0)|True|
 |[Planting Trees](https://open.kattis.com/problems/plantingtrees)|plantingtrees|Easy(1.6)|True|
 |[Pokechat](https://open.kattis.com/problems/pokechat)|pokechat|Easy(1.5)|True|
 |[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|provincesandgold|Easy(1.4)|True|
@@ -107,4 +107,4 @@ Total solved: 92
 
 Total unsolved: 7
 
-Average difficulty solved: 1.7402985074626869
+Average difficulty solved: 1.7251851851851852
