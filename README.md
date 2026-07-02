@@ -77,6 +77,7 @@
 |[Musical Chairs](https://open.kattis.com/problems/musicalchairs)|musicalchairs|Easy(2.7)|True|
 |[NOP](https://open.kattis.com/problems/nop)|nop|Easy(1.9)|True|
 |[Oddities](https://open.kattis.com/problems/oddities)|oddities|Easy(1.3)|True|
+|[Orðla](https://open.kattis.com/problems/ordla)|ordla|Hard(9.8)|True|
 |[Palindromic Paths](https://open.kattis.com/problems/palindromicpath)|palindromicpath|Medium(4.9)|True|
 |[Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon)|peachpowderpolygon|Easy(1.9)|True|
 |[Planting Trees](https://open.kattis.com/problems/plantingtrees)|plantingtrees|Easy(1.6)|True|
@@ -106,8 +107,8 @@
 
 
 ---
-Total solved: 95
+Total solved: 96
 
 Total unsolved: 7
 
-Average difficulty solved: 1.7630434782608697
+Average difficulty solved: 1.8208633093525182
