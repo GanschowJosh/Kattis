@@ -21,7 +21,7 @@
 |[A Rank Problem](https://open.kattis.com/problems/rankproblem)|rankproblem|Medium(3.0)|True|
 |[A Tree and Two Edges](https://open.kattis.com/problems/atreeandtwoedges)|atreeandtwoedges|Hard(7.0)|False|
 |[A1 Paper](https://open.kattis.com/problems/a1paper)|a1paper|Medium(4.5)|True|
-|[ABC String](https://open.kattis.com/problems/abcstring)|abcstring|Medium(4.3)|False|
+|[ABC String](https://open.kattis.com/problems/abcstring)|abcstring|Medium(4.3)|True|
 |[Abridged Reading](https://open.kattis.com/problems/abridgedreading)|abridgedreading|Medium(4.7)|True|
 |[Adding Words](https://open.kattis.com/problems/addingwords)|addingwords|Easy(2.6)|True|
 |[Administrative Difficulties](https://open.kattis.com/problems/administrativeproblems)|administrativeproblems|Medium(4.7)|False|
@@ -107,8 +107,8 @@
 
 
 ---
-Total solved: 96
+Total solved: 97
 
-Total unsolved: 7
+Total unsolved: 6
 
-Average difficulty solved: 1.8208633093525182
+Average difficulty solved: 1.8385714285714287
