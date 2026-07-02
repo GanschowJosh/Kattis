@@ -36,6 +36,7 @@
 |[Basic Programming 1](https://open.kattis.com/problems/basicprogramming1)|basicprogramming1|Medium(3.7)|True|
 |[Birds on a Wire](https://open.kattis.com/problems/birds)|birds|Easy(2.1)|True|
 |[Block Crusher](https://open.kattis.com/problems/blockcrusher)|blockcrusher|Medium(3.1)|True|
+|[Borðspil](https://open.kattis.com/problems/bordspil)|bordspil|Medium(3.8)|True|
 |[Bread Sorting](https://open.kattis.com/problems/bread)|bread|Medium(3.6)|True|
 |[Breaking Bad](https://open.kattis.com/problems/breakingbad)|breakingbad|Easy(2.1)|False|
 |[Breaking Maze](https://open.kattis.com/problems/breakmaze)|breakmaze|Medium(3.0)|True|
@@ -105,8 +106,8 @@
 
 
 ---
-Total solved: 94
+Total solved: 95
 
 Total unsolved: 7
 
-Average difficulty solved: 1.7481751824817517
+Average difficulty solved: 1.7630434782608697
