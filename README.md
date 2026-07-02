@@ -84,6 +84,7 @@
 |[Pokechat](https://open.kattis.com/problems/pokechat)|pokechat|Easy(1.5)|True|
 |[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|provincesandgold|Easy(1.4)|True|
 |[R2](https://open.kattis.com/problems/r2)|r2|Easy(1.4)|True|
+|[Radioactive Blastervium](https://open.kattis.com/problems/radioactiveblastervium)|radioactiveblastervium|Medium(4.8)|True|
 |[Rampant Growth](https://open.kattis.com/problems/rampantgrowth)|rampantgrowth|Easy(2.0)|True|
 |[Redundant Binary Notation](https://open.kattis.com/problems/redundantbinarynotation)|redundantbinarynotation|Medium(4.1)|True|
 |[Relocation](https://open.kattis.com/problems/relocation)|relocation|Easy(1.5)|True|
@@ -107,8 +108,8 @@
 
 
 ---
-Total solved: 97
+Total solved: 98
 
 Total unsolved: 6
 
-Average difficulty solved: 1.8385714285714287
+Average difficulty solved: 1.8595744680851072
