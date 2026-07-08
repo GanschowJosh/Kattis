@@ -102,6 +102,7 @@
 |[Two Charts Become One](https://open.kattis.com/problems/twochartsbecomeone)|twochartsbecomeone|Medium(4.3)|True|
 |[Unique Snowflakes](https://open.kattis.com/problems/snowflakes)|snowflakes|Medium(3.8)|True|
 |[Unlock Pattern](https://open.kattis.com/problems/unlockpattern)|unlockpattern|Easy(1.9)|True|
+|[VivoParc](https://open.kattis.com/problems/vivoparc)|vivoparc|Medium(4.6)|True|
 |[Watering Grass](https://open.kattis.com/problems/grass)|grass|Medium(3.1)|True|
 |[Waterworld](https://open.kattis.com/problems/waterworld)|waterworld|Easy(2.1)|True|
 |[Zagrade](https://open.kattis.com/problems/zagrade)|zagrade|Easy(2.7)|True|
@@ -109,8 +110,8 @@
 
 
 ---
-Total solved: 99
+Total solved: 100
 
 Total unsolved: 6
 
-Average difficulty solved: 1.87887323943662
+Average difficulty solved: 1.8979020979020986
