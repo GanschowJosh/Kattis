@@ -53,6 +53,7 @@
 |[Diverse Contest](https://open.kattis.com/problems/diversecontest)|diversecontest|Easy(2.6)|True|
 |[Efficient Exchange](https://open.kattis.com/problems/efficientexchange)|efficientexchange|Medium(4.3)|True|
 |[Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)|elevatortrouble|Easy(1.9)|True|
+|[Explosion Exploit](https://open.kattis.com/problems/explosion)|explosion|Medium(4.6)|True|
 |[Free-Form Input](https://open.kattis.com/problems/freeforminput)|freeforminput|Easy(2.1)|True|
 |[Frogger](https://open.kattis.com/problems/frogger)|frogger|Medium(5.2)|True|
 |[Grass Seed Inc.](https://open.kattis.com/problems/grassseed)|grassseed|Easy(1.3)|True|
@@ -111,8 +112,8 @@
 
 
 ---
-Total solved: 101
+Total solved: 102
 
 Total unsolved: 6
 
-Average difficulty solved: 1.896527777777778
+Average difficulty solved: 1.9151724137931034
