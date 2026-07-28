@@ -75,6 +75,7 @@
 |[Maximizing Your Pay](https://open.kattis.com/problems/maximizingyourpay)|maximizingyourpay|Medium(5.0)|True|
 |[Menu Updates](https://open.kattis.com/problems/menuupdates)|menuupdates|Medium(3.4)|True|
 |[Minimum Scalar Product](https://open.kattis.com/problems/minimumscalar)|minimumscalar|Easy(1.6)|True|
+|[Mixtape Management](https://open.kattis.com/problems/mixtapemanagement)|mixtapemanagement|Medium(4.6)|True|
 |[Miði](https://open.kattis.com/problems/midi)|midi|Easy(2.1)|True|
 |[Modulo](https://open.kattis.com/problems/modulo)|modulo|Easy(1.3)|True|
 |[Modulo Solitaire](https://open.kattis.com/problems/modulosolitaire)|modulosolitaire|Medium(2.8)|True|
@@ -115,8 +116,8 @@
 
 
 ---
-Total solved: 105
+Total solved: 106
 
 Total unsolved: 6
 
-Average difficulty solved: 1.9452702702702709
+Average difficulty solved: 1.963087248322148
