@@ -2,39 +2,40 @@
 |Name|Id|Difficulty|Solved?|
 |----|--|----------|-------|
 |['S No Problem](https://open.kattis.com/problems/snoproblem)|snoproblem|Hard(8.0)|False|
-|[(un)Fair Play](https://open.kattis.com/problems/unfairplay)|unfairplay|Hard(5.7)|False|
-|[1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)|1dfroggereasy|Easy(2.3)|True|
-|[10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople)|10kindsofpeople|Easy(2.3)|True|
+|[(un)Fair Play](https://open.kattis.com/problems/unfairplay)|unfairplay|Hard(5.6)|False|
+|[1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)|1dfroggereasy|Easy(2.2)|True|
+|[10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople)|10kindsofpeople|Easy(2.4)|True|
 |[3D Printed Statues](https://open.kattis.com/problems/3dprinter)|3dprinter|Easy(1.7)|True|
-|[4 thought](https://open.kattis.com/problems/4thought)|4thought|Medium(2.8)|True|
+|[4 thought](https://open.kattis.com/problems/4thought)|4thought|Easy(2.7)|True|
 |[99 Problems](https://open.kattis.com/problems/99problems)|99problems|Easy(2.7)|True|
 |[A Cappella Recording](https://open.kattis.com/problems/acappellarecording)|acappellarecording|Easy(2.0)|True|
-|[A Classy Problem](https://open.kattis.com/problems/classy)|classy|Easy(2.6)|True|
+|[A Classy Problem](https://open.kattis.com/problems/classy)|classy|Easy(2.7)|True|
 |[A Different Problem](https://open.kattis.com/problems/different)|different|Easy(2.1)|True|
 |[A Favourable Ending](https://open.kattis.com/problems/favourable)|favourable|Easy(2.3)|True|
 |[A Feast For Cats](https://open.kattis.com/problems/cats)|cats|Medium(3.6)|True|
 |[A Furious Cocktail](https://open.kattis.com/problems/cocktail)|cocktail|Easy(2.7)|True|
-|[A Little to the Right](https://open.kattis.com/problems/alittletotheright)|alittletotheright|Medium(4.2)|True|
-|[A Multiplication Game](https://open.kattis.com/problems/amultiplicationgame)|amultiplicationgame|Easy(2.6)|True|
+|[A Little to the Right](https://open.kattis.com/problems/alittletotheright)|alittletotheright|Medium(4.4)|True|
+|[A Multiplication Game](https://open.kattis.com/problems/amultiplicationgame)|amultiplicationgame|Easy(2.5)|True|
 |[A Pivotal Question](https://open.kattis.com/problems/apivotalquestion)|apivotalquestion|Medium(3.3)|True|
-|[A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin)|aprizenoonecanwin|Easy(2.6)|True|
+|[A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin)|aprizenoonecanwin|Easy(2.7)|True|
 |[A Rank Problem](https://open.kattis.com/problems/rankproblem)|rankproblem|Medium(3.3)|True|
-|[A Tree and Two Edges](https://open.kattis.com/problems/atreeandtwoedges)|atreeandtwoedges|Hard(6.8)|False|
+|[A Tree and Two Edges](https://open.kattis.com/problems/atreeandtwoedges)|atreeandtwoedges|Hard(6.7)|False|
 |[A1 Paper](https://open.kattis.com/problems/a1paper)|a1paper|Medium(4.7)|True|
 |[ABC String](https://open.kattis.com/problems/abcstring)|abcstring|Medium(4.2)|True|
-|[Abridged Reading](https://open.kattis.com/problems/abridgedreading)|abridgedreading|Medium(4.8)|True|
-|[Adding Words](https://open.kattis.com/problems/addingwords)|addingwords|Easy(2.7)|True|
+|[Abridged Reading](https://open.kattis.com/problems/abridgedreading)|abridgedreading|Medium(4.7)|True|
+|[Adding Words](https://open.kattis.com/problems/addingwords)|addingwords|Easy(2.6)|True|
 |[Administrative Difficulties](https://open.kattis.com/problems/administrativeproblems)|administrativeproblems|Medium(4.4)|False|
 |[Almost Perfect](https://open.kattis.com/problems/almostperfect)|almostperfect|Easy(2.3)|True|
 |[Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)|artichoke|Easy(2.2)|True|
 |[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|apaxiaaans|Easy(1.3)|True|
 |[Association for Computing Machinery](https://open.kattis.com/problems/acm2)|acm2|Easy(2.4)|True|
 |[Autori](https://open.kattis.com/problems/autori)|autori|Easy(1.2)|True|
-|[Baby Shark](https://open.kattis.com/problems/babyshark)|babyshark|Easy(2.0)|True|
+|[Baby Shark](https://open.kattis.com/problems/babyshark)|babyshark|Easy(1.9)|True|
 |[Bank Queue](https://open.kattis.com/problems/bank)|bank|Easy(2.3)|True|
 |[Bard](https://open.kattis.com/problems/bard)|bard|Easy(2.2)|True|
 |[Basic Programming 1](https://open.kattis.com/problems/basicprogramming1)|basicprogramming1|Medium(3.6)|True|
-|[Birds on a Wire](https://open.kattis.com/problems/birds)|birds|Easy(2.2)|True|
+|[Birds on a Wire](https://open.kattis.com/problems/birds)|birds|Easy(2.1)|True|
+|[Blimps Fort Barricade](https://open.kattis.com/problems/blimpsfortbarricade)|blimpsfortbarricade|Medium(3.3)|True|
 |[Block Crusher](https://open.kattis.com/problems/blockcrusher)|blockcrusher|Medium(3.0)|True|
 |[Borðspil](https://open.kattis.com/problems/bordspil)|bordspil|Medium(3.8)|True|
 |[Bread Sorting](https://open.kattis.com/problems/bread)|bread|Medium(3.6)|True|
@@ -63,7 +64,7 @@
 |[Highest Hill](https://open.kattis.com/problems/highesthill)|highesthill|Medium(4.2)|True|
 |[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)|hissingmicrophone|Easy(1.2)|True|
 |[I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)|everywhere|Easy(1.4)|True|
-|[Imperfect GPS](https://open.kattis.com/problems/imperfectgps)|imperfectgps|Medium(3.0)|True|
+|[Imperfect GPS](https://open.kattis.com/problems/imperfectgps)|imperfectgps|Medium(3.1)|True|
 |[Inputmaxxing](https://open.kattis.com/problems/inputmaxxing)|inputmaxxing|Medium(3.9)|True|
 |[Interpreter](https://open.kattis.com/problems/interpreter)|interpreter|Medium(3.2)|True|
 |[Jack and Jill](https://open.kattis.com/problems/jackandjill)|jackandjill|Medium(4.1)|True|
@@ -92,9 +93,9 @@
 |[Redundant Binary Notation](https://open.kattis.com/problems/redundantbinarynotation)|redundantbinarynotation|Medium(4.3)|True|
 |[Relocation](https://open.kattis.com/problems/relocation)|relocation|Easy(1.5)|True|
 |[Secret Chamber at Mount Rushmore](https://open.kattis.com/problems/secretchamber)|secretchamber|Easy(2.4)|True|
-|[Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)|shortestpath1|Easy(2.1)|True|
+|[Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)|shortestpath1|Easy(2.0)|True|
 |[Speed Limit](https://open.kattis.com/problems/speedlimit)|speedlimit|Easy(1.5)|True|
-|[Square Search](https://open.kattis.com/problems/squaresearch)|squaresearch|Hard(5.6)|True|
+|[Square Search](https://open.kattis.com/problems/squaresearch)|squaresearch|Medium(4.6)|True|
 |[Statistics](https://open.kattis.com/problems/statistics)|statistics|Easy(1.6)|True|
 |[Straight Road Communications](https://open.kattis.com/problems/straightroadcommunications)|straightroadcommunications|Medium(4.4)|True|
 |[String Matching](https://open.kattis.com/problems/stringmatching)|stringmatching|Medium(3.2)|True|
@@ -114,8 +115,8 @@
 
 
 ---
-Total solved: 104
+Total solved: 105
 
 Total unsolved: 6
 
-Average difficulty solved: 1.944217687074831
+Average difficulty solved: 1.9452702702702709
