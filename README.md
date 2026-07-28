@@ -87,6 +87,7 @@
 |[Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon)|peachpowderpolygon|Easy(1.9)|True|
 |[Planting Trees](https://open.kattis.com/problems/plantingtrees)|plantingtrees|Easy(1.6)|True|
 |[Pokechat](https://open.kattis.com/problems/pokechat)|pokechat|Easy(1.5)|True|
+|[Portal Orientation](https://open.kattis.com/problems/portalorientation)|portalorientation|Medium(5.4)|True|
 |[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|provincesandgold|Easy(1.4)|True|
 |[R2](https://open.kattis.com/problems/r2)|r2|Easy(1.4)|True|
 |[Radioactive Blastervium](https://open.kattis.com/problems/radioactiveblastervium)|radioactiveblastervium|Medium(4.6)|True|
@@ -116,8 +117,8 @@
 
 
 ---
-Total solved: 106
+Total solved: 107
 
 Total unsolved: 6
 
-Average difficulty solved: 1.963087248322148
+Average difficulty solved: 1.9860000000000007
