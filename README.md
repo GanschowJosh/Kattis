@@ -60,6 +60,7 @@
 |[Grass Seed Inc.](https://open.kattis.com/problems/grassseed)|grassseed|Easy(1.3)|True|
 |[Grid](https://open.kattis.com/problems/grid)|grid|Easy(2.4)|True|
 |[HARDFLOR](https://open.kattis.com/problems/hardflor)|hardflor|Easy(1.9)|True|
+|[Hardware](https://open.kattis.com/problems/hardware)|hardware|Easy(2.1)|True|
 |[Hay Points](https://open.kattis.com/problems/haypoints)|haypoints|Easy(1.9)|True|
 |[Highest Hill](https://open.kattis.com/problems/highesthill)|highesthill|Medium(4.2)|True|
 |[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)|hissingmicrophone|Easy(1.2)|True|
@@ -119,8 +120,8 @@
 
 
 ---
-Total solved: 109
+Total solved: 110
 
 Total unsolved: 6
 
-Average difficulty solved: 1.9960526315789484
+Average difficulty solved: 1.996732026143792
