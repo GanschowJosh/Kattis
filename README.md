@@ -49,6 +49,7 @@
 |[Coast Length](https://open.kattis.com/problems/coast)|coast|Easy(2.4)|True|
 |[Cold-puter Science](https://open.kattis.com/problems/cold)|cold|Easy(1.2)|True|
 |[Cookie Monster Concussion](https://open.kattis.com/problems/cookiemonsterconcussion)|cookiemonsterconcussion|Easy(2.1)|True|
+|[Delimiter Soup](https://open.kattis.com/problems/delimitersoup)|delimitersoup|Easy(1.6)|True|
 |[Digit Swap](https://open.kattis.com/problems/digitswap)|digitswap|Easy(1.2)|True|
 |[Digits](https://open.kattis.com/problems/digits)|digits|Easy(2.7)|True|
 |[Diverse Contest](https://open.kattis.com/problems/diversecontest)|diversecontest|Easy(2.5)|True|
@@ -121,8 +122,8 @@
 
 
 ---
-Total solved: 111
+Total solved: 112
 
 Total unsolved: 6
 
-Average difficulty solved: 1.9535947712418313
+Average difficulty solved: 1.9512987012987024
