@@ -13,7 +13,7 @@
 |[A Different Problem](https://open.kattis.com/problems/different)|different|Easy(1.8)|True|
 |[A Favourable Ending](https://open.kattis.com/problems/favourable)|favourable|Easy(2.2)|True|
 |[A Feast For Cats](https://open.kattis.com/problems/cats)|cats|Medium(3.3)|True|
-|[A Furious Cocktail](https://open.kattis.com/problems/cocktail)|cocktail|Easy(2.5)|True|
+|[A Furious Cocktail](https://open.kattis.com/problems/cocktail)|cocktail|Easy(2.6)|True|
 |[A Little to the Right](https://open.kattis.com/problems/alittletotheright)|alittletotheright|Medium(4.3)|True|
 |[A Multiplication Game](https://open.kattis.com/problems/amultiplicationgame)|amultiplicationgame|Easy(2.2)|True|
 |[A Pivotal Question](https://open.kattis.com/problems/apivotalquestion)|apivotalquestion|Medium(3.0)|True|
@@ -52,6 +52,7 @@
 |[Delimiter Soup](https://open.kattis.com/problems/delimitersoup)|delimitersoup|Easy(1.6)|True|
 |[Digit Swap](https://open.kattis.com/problems/digitswap)|digitswap|Easy(1.2)|True|
 |[Digits](https://open.kattis.com/problems/digits)|digits|Easy(2.7)|True|
+|[Disastrous Downtime](https://open.kattis.com/problems/downtime)|downtime|Easy(2.7)|True|
 |[Diverse Contest](https://open.kattis.com/problems/diversecontest)|diversecontest|Easy(2.5)|True|
 |[Efficient Exchange](https://open.kattis.com/problems/efficientexchange)|efficientexchange|Medium(4.0)|True|
 |[Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)|elevatortrouble|Easy(1.9)|True|
@@ -67,7 +68,7 @@
 |[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)|hissingmicrophone|Easy(1.2)|True|
 |[I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)|everywhere|Easy(1.3)|True|
 |[Imperfect GPS](https://open.kattis.com/problems/imperfectgps)|imperfectgps|Medium(3.0)|True|
-|[Inputmaxxing](https://open.kattis.com/problems/inputmaxxing)|inputmaxxing|Medium(3.2)|True|
+|[Inputmaxxing](https://open.kattis.com/problems/inputmaxxing)|inputmaxxing|Medium(3.3)|True|
 |[Interpreter](https://open.kattis.com/problems/interpreter)|interpreter|Medium(3.2)|True|
 |[Jack and Jill](https://open.kattis.com/problems/jackandjill)|jackandjill|Medium(4.4)|True|
 |[Jane Eyre](https://open.kattis.com/problems/janeeyre)|janeeyre|Medium(3.5)|True|
@@ -87,7 +88,7 @@
 |[NOP](https://open.kattis.com/problems/nop)|nop|Easy(1.9)|True|
 |[Oddities](https://open.kattis.com/problems/oddities)|oddities|Easy(1.3)|True|
 |[Orðla](https://open.kattis.com/problems/ordla)|ordla|Hard(9.8)|True|
-|[Palindromic Paths](https://open.kattis.com/problems/palindromicpath)|palindromicpath|Medium(4.7)|True|
+|[Palindromic Paths](https://open.kattis.com/problems/palindromicpath)|palindromicpath|Medium(4.6)|True|
 |[Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon)|peachpowderpolygon|Easy(1.9)|True|
 |[Planting Trees](https://open.kattis.com/problems/plantingtrees)|plantingtrees|Easy(1.6)|True|
 |[Pokechat](https://open.kattis.com/problems/pokechat)|pokechat|Easy(1.5)|True|
@@ -104,8 +105,9 @@
 |[Square Search](https://open.kattis.com/problems/squaresearch)|squaresearch|Medium(4.2)|True|
 |[Statistics](https://open.kattis.com/problems/statistics)|statistics|Easy(1.6)|True|
 |[Straight Road Communications](https://open.kattis.com/problems/straightroadcommunications)|straightroadcommunications|Medium(4.5)|True|
-|[String Matching](https://open.kattis.com/problems/stringmatching)|stringmatching|Medium(3.3)|True|
+|[String Matching](https://open.kattis.com/problems/stringmatching)|stringmatching|Medium(3.4)|True|
 |[T9 Spelling](https://open.kattis.com/problems/t9spelling)|t9spelling|Easy(1.3)|True|
+|[Teque](https://open.kattis.com/problems/teque)|teque|Medium(3.0)|True|
 |[Texas Summers](https://open.kattis.com/problems/texassummers)|texassummers|Medium(3.5)|False|
 |[Tracking Shares](https://open.kattis.com/problems/trackingshares)|trackingshares|Easy(2.3)|True|
 |[Training](https://open.kattis.com/problems/training)|training|Easy(1.6)|True|
@@ -117,13 +119,13 @@
 |[VivoParc](https://open.kattis.com/problems/vivoparc)|vivoparc|Medium(4.4)|True|
 |[Watering Grass](https://open.kattis.com/problems/grass)|grass|Medium(3.1)|True|
 |[Waterworld](https://open.kattis.com/problems/waterworld)|waterworld|Easy(2.1)|True|
-|[Zagrade](https://open.kattis.com/problems/zagrade)|zagrade|Easy(2.5)|True|
+|[Zagrade](https://open.kattis.com/problems/zagrade)|zagrade|Easy(2.6)|True|
 |[Óvissa](https://open.kattis.com/problems/ovissa)|ovissa|Easy(1.1)|True|
 
 
 ---
-Total solved: 112
+Total solved: 114
 
 Total unsolved: 6
 
-Average difficulty solved: 1.9512987012987024
+Average difficulty solved: 1.9647435897435912
