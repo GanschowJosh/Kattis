@@ -26,6 +26,7 @@
 |[Adding Words](https://open.kattis.com/problems/addingwords)|addingwords|Easy(2.3)|True|
 |[Administrative Difficulties](https://open.kattis.com/problems/administrativeproblems)|administrativeproblems|Medium(3.8)|False|
 |[Almost Perfect](https://open.kattis.com/problems/almostperfect)|almostperfect|Easy(2.4)|True|
+|[Almost Union-Find](https://open.kattis.com/problems/almostunionfind)|almostunionfind|Medium(3.3)|True|
 |[Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)|artichoke|Easy(2.2)|True|
 |[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|apaxiaaans|Easy(1.3)|True|
 |[Association for Computing Machinery](https://open.kattis.com/problems/acm2)|acm2|Easy(2.3)|True|
@@ -126,8 +127,8 @@
 
 
 ---
-Total solved: 116
+Total solved: 117
 
 Total unsolved: 6
 
-Average difficulty solved: 1.944025157232706
+Average difficulty solved: 1.964779874213838
