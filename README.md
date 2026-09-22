@@ -3,13 +3,13 @@
 |----|--|----------|-------|
 |['S No Problem](https://open.kattis.com/problems/snoproblem)|snoproblem|Hard(7.1)|False|
 |[(un)Fair Play](https://open.kattis.com/problems/unfairplay)|unfairplay|Hard(5.5)|False|
-|[1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)|1dfroggereasy|Easy(2.2)|True|
+|[1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)|1dfroggereasy|Easy(2.3)|True|
 |[10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople)|10kindsofpeople|Easy(2.5)|True|
-|[3D Printed Statues](https://open.kattis.com/problems/3dprinter)|3dprinter|Easy(1.8)|True|
+|[3D Printed Statues](https://open.kattis.com/problems/3dprinter)|3dprinter|Easy(1.7)|True|
 |[4 thought](https://open.kattis.com/problems/4thought)|4thought|Easy(2.7)|True|
 |[99 Problems](https://open.kattis.com/problems/99problems)|99problems|Easy(2.3)|True|
-|[A Cappella Recording](https://open.kattis.com/problems/acappellarecording)|acappellarecording|Easy(1.8)|True|
-|[A Classy Problem](https://open.kattis.com/problems/classy)|classy|Medium(2.8)|True|
+|[A Cappella Recording](https://open.kattis.com/problems/acappellarecording)|acappellarecording|Easy(1.9)|True|
+|[A Classy Problem](https://open.kattis.com/problems/classy)|classy|Easy(2.7)|True|
 |[A Different Problem](https://open.kattis.com/problems/different)|different|Easy(1.8)|True|
 |[A Favourable Ending](https://open.kattis.com/problems/favourable)|favourable|Easy(2.2)|True|
 |[A Feast For Cats](https://open.kattis.com/problems/cats)|cats|Medium(3.3)|True|
@@ -22,7 +22,7 @@
 |[A Tree and Two Edges](https://open.kattis.com/problems/atreeandtwoedges)|atreeandtwoedges|Hard(7.3)|False|
 |[A1 Paper](https://open.kattis.com/problems/a1paper)|a1paper|Medium(4.8)|True|
 |[ABC String](https://open.kattis.com/problems/abcstring)|abcstring|Medium(4.0)|True|
-|[Abridged Reading](https://open.kattis.com/problems/abridgedreading)|abridgedreading|Medium(4.1)|True|
+|[Abridged Reading](https://open.kattis.com/problems/abridgedreading)|abridgedreading|Medium(4.0)|True|
 |[Adding Words](https://open.kattis.com/problems/addingwords)|addingwords|Easy(2.3)|True|
 |[Administrative Difficulties](https://open.kattis.com/problems/administrativeproblems)|administrativeproblems|Medium(3.8)|False|
 |[Almost Perfect](https://open.kattis.com/problems/almostperfect)|almostperfect|Easy(2.4)|True|
@@ -50,6 +50,7 @@
 |[Cold-puter Science](https://open.kattis.com/problems/cold)|cold|Easy(1.2)|True|
 |[Cookie Monster Concussion](https://open.kattis.com/problems/cookiemonsterconcussion)|cookiemonsterconcussion|Easy(2.1)|True|
 |[Delimiter Soup](https://open.kattis.com/problems/delimitersoup)|delimitersoup|Easy(1.6)|True|
+|[Dice Cup](https://open.kattis.com/problems/dicecup)|dicecup|Easy(1.4)|True|
 |[Digit Swap](https://open.kattis.com/problems/digitswap)|digitswap|Easy(1.2)|True|
 |[Digits](https://open.kattis.com/problems/digits)|digits|Easy(2.7)|True|
 |[Disastrous Downtime](https://open.kattis.com/problems/downtime)|downtime|Easy(2.7)|True|
@@ -88,7 +89,7 @@
 |[NOP](https://open.kattis.com/problems/nop)|nop|Easy(1.9)|True|
 |[Oddities](https://open.kattis.com/problems/oddities)|oddities|Easy(1.3)|True|
 |[Orðla](https://open.kattis.com/problems/ordla)|ordla|Hard(9.8)|True|
-|[Palindromic Paths](https://open.kattis.com/problems/palindromicpath)|palindromicpath|Medium(4.6)|True|
+|[Palindromic Paths](https://open.kattis.com/problems/palindromicpath)|palindromicpath|Medium(4.7)|True|
 |[Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon)|peachpowderpolygon|Easy(1.9)|True|
 |[Planting Trees](https://open.kattis.com/problems/plantingtrees)|plantingtrees|Easy(1.6)|True|
 |[Pokechat](https://open.kattis.com/problems/pokechat)|pokechat|Easy(1.5)|True|
@@ -102,11 +103,12 @@
 |[Secret Chamber at Mount Rushmore](https://open.kattis.com/problems/secretchamber)|secretchamber|Easy(2.3)|True|
 |[Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)|shortestpath1|Easy(2.0)|True|
 |[Speed Limit](https://open.kattis.com/problems/speedlimit)|speedlimit|Easy(1.5)|True|
-|[Square Search](https://open.kattis.com/problems/squaresearch)|squaresearch|Medium(4.2)|True|
+|[Square Search](https://open.kattis.com/problems/squaresearch)|squaresearch|Medium(4.3)|True|
 |[Statistics](https://open.kattis.com/problems/statistics)|statistics|Easy(1.6)|True|
 |[Straight Road Communications](https://open.kattis.com/problems/straightroadcommunications)|straightroadcommunications|Medium(4.5)|True|
-|[String Matching](https://open.kattis.com/problems/stringmatching)|stringmatching|Medium(3.4)|True|
+|[String Matching](https://open.kattis.com/problems/stringmatching)|stringmatching|Medium(3.3)|True|
 |[T9 Spelling](https://open.kattis.com/problems/t9spelling)|t9spelling|Easy(1.3)|True|
+|[Tarifa](https://open.kattis.com/problems/tarifa)|tarifa|Easy(1.3)|True|
 |[Teque](https://open.kattis.com/problems/teque)|teque|Medium(3.0)|True|
 |[Texas Summers](https://open.kattis.com/problems/texassummers)|texassummers|Medium(3.5)|False|
 |[Tracking Shares](https://open.kattis.com/problems/trackingshares)|trackingshares|Easy(2.3)|True|
@@ -119,13 +121,13 @@
 |[VivoParc](https://open.kattis.com/problems/vivoparc)|vivoparc|Medium(4.4)|True|
 |[Watering Grass](https://open.kattis.com/problems/grass)|grass|Medium(3.1)|True|
 |[Waterworld](https://open.kattis.com/problems/waterworld)|waterworld|Easy(2.1)|True|
-|[Zagrade](https://open.kattis.com/problems/zagrade)|zagrade|Easy(2.6)|True|
+|[Zagrade](https://open.kattis.com/problems/zagrade)|zagrade|Easy(2.5)|True|
 |[Óvissa](https://open.kattis.com/problems/ovissa)|ovissa|Easy(1.1)|True|
 
 
 ---
-Total solved: 114
+Total solved: 116
 
 Total unsolved: 6
 
-Average difficulty solved: 1.9647435897435912
+Average difficulty solved: 1.944025157232706
