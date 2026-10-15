@@ -33,15 +33,16 @@ class Problem:
   diff_cat:   str
   solved:     bool
   timestamp:  datetime.datetime
+  language:   string
 
 problems = {}
 
 for pr in problems_solved:
-  cp=Problem(pr['id'],pr['name'],pr['difficulty'],pr['category'],True,None)
+  cp=Problem(pr['id'],pr['name'],pr['difficulty'],pr['category'],True,None,None)
   problems[pr['id']]=cp
 
 for pr in problems_unsolved:
-  cp=Problem(pr['id'],pr['name'],pr['difficulty'],pr['category'],False,None)
+  cp=Problem(pr['id'],pr['name'],pr['difficulty'],pr['category'],False,None,None)
   problems[pr['id']]=cp
 
 
@@ -71,13 +72,15 @@ seen=set()
 date_heap=[]
 difficulty_heap=[]
 for f in files:
-  if f.split(".")[-1] not in ["py","cpp","c"]: continue
+  lang=f.split('.')[-1]
+  if lang not in ["py","cpp","c"]: continue
   problem_id = f.split(".")[0].split("_")[0]
   if problem_id in seen:
     continue
   seen.add(problem_id)
   if problem_id not in problems: continue
   pr=problems[problem_id]
+  pr.language=lang
   if pr.solved and pr.timestamp is not None:
     solved_problems.append(pr)
     heapq.heappush_max(date_heap, (pr.timestamp, pr.id, pr.difficulty))
@@ -90,23 +93,27 @@ print("parsed all files")
 sum_last_10=0
 for i in range(10):
   c=heapq.heappop_max(date_heap)
-  print(c)
+  #print(c)
   sum_last_10+=c[2]
 
 
+solution_base_link = 'https://github.com/GanschowJosh/Kattis/blob/main/sol/'
+
 lines = []
 lines.append("# open.kattis.com solutions")
-lines.append("|Name|Id|Difficulty|Solved?|")
-lines.append("|----|--|----------|-------|")
+lines.append("|Name|Id|Difficulty|Solved?|My Solution|")
+lines.append("|----|--|----------|-------|-----------|")
 num_solved = 0
 num_unsolved = 0
 diff_total = 0
 for p in sorted(problems.values(), key=lambda x: x.name):
+  if p.language is None:
+    continue
   if p.solved:
     num_solved+=1
     diff_total += p.difficulty
   else: num_unsolved+=1
-  lines.append(f"|[{p.name}](https://open.kattis.com/problems/{p.id})|{p.id}|{p.diff_cat}({p.difficulty})|{p.solved}|")
+  lines.append(f"|[{p.name}](https://open.kattis.com/problems/{p.id})|{p.id}|{p.diff_cat}({p.difficulty})|{p.solved}|[source]({solution_base_link+p.id+'.'+p.language})|")
 
 lines.extend(["\n","---"])
 lines.append(f"Total solved: {num_solved}\n")
