@@ -64,9 +64,6 @@ for i,j in result:
 dx2 = sqrt(dx)*2
 nc = ceil(k / dx2)
 
-while nc > 0 and 4*(nc-1)**2*dx >= k**2:
-  nc -= 1
-
 while 4*nc**2*dx < k**2:
   nc += 1
 if nc > lengths[dx] and 4*nc**2*dx == k**2:
