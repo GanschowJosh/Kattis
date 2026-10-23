@@ -33,7 +33,7 @@ class Problem:
   diff_cat:   str
   solved:     bool
   timestamp:  datetime.datetime
-  language:   string
+  language:   str
 
 problems = {}
 
