@@ -123,6 +123,7 @@
 |[Redundant Binary Notation](https://open.kattis.com/problems/redundantbinarynotation)|redundantbinarynotation|Medium(5.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/redundantbinarynotation.py)|
 |[Regarde!](https://open.kattis.com/problems/regarde)|regarde|Easy(1.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/regarde.py)|
 |[Relocation](https://open.kattis.com/problems/relocation)|relocation|Easy(1.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/relocation.py)|
+|[Restaurant Orders](https://open.kattis.com/problems/orders)|orders|Medium(3.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/orders.py)|
 |[Secret Chamber at Mount Rushmore](https://open.kattis.com/problems/secretchamber)|secretchamber|Easy(2.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/secretchamber.py)|
 |[Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)|shortestpath1|Easy(1.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/shortestpath1.py)|
 |[Six Seven](https://open.kattis.com/problems/sixseven3)|sixseven3|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/sixseven3.py)|
@@ -155,12 +156,12 @@
 
 
 ---
-Total solved: 146
+Total solved: 147
 
 Total unsolved: 5
 
-Average difficulty solved: 2.0468085106382987
+Average difficulty solved: 2.052380952380953
 
-Average of last 10: 3.47
+Average of last 10: 3.35
 
 Highest Difficulty: 8.6 (browniecutting)
