@@ -138,7 +138,7 @@
 |[T9 Spelling](https://open.kattis.com/problems/t9spelling)|t9spelling|Easy(1.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/t9spelling.py)|
 |[Tarifa](https://open.kattis.com/problems/tarifa)|tarifa|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/tarifa.py)|
 |[Teque](https://open.kattis.com/problems/teque)|teque|Medium(3.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/teque.py)|
-|[Texas Summers](https://open.kattis.com/problems/texassummers)|texassummers|Medium(3.5)|False|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/texassummers.py)|
+|[Texas Summers](https://open.kattis.com/problems/texassummers)|texassummers|Medium(3.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/texassummers.py)|
 |[The n Days of Christmas](https://open.kattis.com/problems/thendaysofchristmas2)|thendaysofchristmas2|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/thendaysofchristmas2.py)|
 |[Tracking Shares](https://open.kattis.com/problems/trackingshares)|trackingshares|Easy(2.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/trackingshares.py)|
 |[Training](https://open.kattis.com/problems/training)|training|Easy(1.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/training.py)|
@@ -156,12 +156,12 @@
 
 
 ---
-Total solved: 145
+Total solved: 146
 
-Total unsolved: 7
+Total unsolved: 6
 
-Average difficulty solved: 2.0390374331550807
+Average difficulty solved: 2.0468085106382987
 
-Average of last 10: 3.31
+Average of last 10: 3.47
 
 Highest Difficulty: 8.6 (browniecutting)
