@@ -1,51 +1,43 @@
+n=int(input())
+shade=[]
+idx={}
+for i in range(n):
+  x,y=map(int, input().split())
+  shade.append((x,y))
+  idx[(x,y)]=i
+start=tuple(map(int, input().split()))
+end=tuple(map(int, input().split()))
+
+shade.append(end)
+
+
 import heapq
-import math
+from collections import defaultdict
 
-def calculate_distance(point1, point2, sun_exposure):
-  distance = math.sqrt((point1[0] - point2[0])**2 + (point1[1] - point2[1])**2)
-  return distance * math.exp(sun_exposure)
+def dijkstra(start):
+  dist=defaultdict(lambda: float('inf'))
+  parent=defaultdict(lambda: -1)
+  dist[start]=0
+  parent[start]=0
+  q=[(0,start)]
+  while q:
+    cd,c=heapq.heappop(q)
+    if cd != dist[c]: continue
+    for nxt in shade:
+      nx,ny=nxt
+      nd=cd+pow(c[0]-nx,2)+pow(c[1]-ny,2)
+      # print(nd, nxt)
+      if nd >= dist[nxt]: continue
+      dist[nxt]=nd
+      parent[nxt]=c
+      heapq.heappush(q,(nd,nxt))
+  return dist, parent
 
-def dijkstra(graph, start):
-  distances = {node: float('infinity') for node in graph}
-  distances[start] = 0
-  previous_nodes = {node: None for node in graph}
-  queue = [(0, start)]
+dist,parent=dijkstra(start)
+curr=parent[end]
+ot=[]
+while curr!=start and curr!=-1:
+  ot.append(idx[curr])
+  curr=parent[curr]
 
-  while queue:
-    current_distance, current_node = heapq.heappop(queue)
-    if current_distance > distances[current_node]:
-      continue
-
-    for neighbor, weight in graph[current_node].items():
-      distance = current_distance + weight
-      if distance < distances[neighbor]:
-        distances[neighbor] = distance
-        previous_nodes[neighbor] = current_node
-        heapq.heappush(queue, (distance, neighbor))
-
-  return distances, previous_nodes
-
-def shortest_path(previous_nodes, start, end):
-  path = []
-  while end is not None:
-    path.append(end)
-    end = previous_nodes[end]
-  path.reverse()
-  return path
-
-n = int(input())
-shady_spots = [tuple(map(int, input().split())) for _ in range(n)]
-dormitory = tuple(map(int, input().split()))
-classroom = tuple(map(int, input().split()))
-
-points = shady_spots + [dormitory, classroom]
-sun_exposure = 5
-graph = {i: {j: calculate_distance(points[i], points[j], sun_exposure) for j in range(len(points)) if i != j} for i in range(len(points))}
-
-distances, previous_nodes = dijkstra(graph, len(points) - 2)
-path = shortest_path(previous_nodes, len(points) - 2, len(points) - 1)
-
-# Convert the indices back to shady spot indices and adjust for 1-indexing
-path = [i+1 if i < len(shady_spots) else ('D' if i == len(shady_spots) else 'C') for i in path]
-
-print(path)
+print('\n'.join(map(str,reversed(ot))) if ot else '-')
