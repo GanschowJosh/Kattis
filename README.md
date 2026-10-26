@@ -66,6 +66,9 @@
 |[Efficient Exchange](https://open.kattis.com/problems/efficientexchange)|efficientexchange|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/efficientexchange.py)|
 |[Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)|elevatortrouble|Easy(1.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/elevatortrouble.py)|
 |[Espresso Macchiato](https://open.kattis.com/problems/espressomacchiato)|espressomacchiato|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/espressomacchiato.py)|
+|[Exact Change](https://open.kattis.com/problems/exactchange)|exactchange|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/exactchange.py)|
+|[Exact Change](https://open.kattis.com/problems/exactchange2)|exactchange2|Medium(3.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/exactchange2.py)|
+|[Exact Change](https://open.kattis.com/problems/exactchange3)|exactchange3|Medium(3.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/exactchange3.py)|
 |[Explosion Exploit](https://open.kattis.com/problems/explosion)|explosion|Medium(4.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/explosion.py)|
 |[Fairytale](https://open.kattis.com/problems/fairytale)|fairytale|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/fairytale.py)|
 |[Free-Form Input](https://open.kattis.com/problems/freeforminput)|freeforminput|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/freeforminput.py)|
@@ -156,12 +159,12 @@
 
 
 ---
-Total solved: 147
+Total solved: 150
 
 Total unsolved: 5
 
-Average difficulty solved: 2.052380952380953
+Average difficulty solved: 2.0671875000000006
 
-Average of last 10: 3.35
+Average of last 10: 3.01
 
 Highest Difficulty: 8.6 (browniecutting)
