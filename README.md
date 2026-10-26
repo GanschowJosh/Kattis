@@ -2,7 +2,6 @@
 |Name|Id|Difficulty|Solved?|My Solution|
 |----|--|----------|-------|-----------|
 |["lv"-able](https://open.kattis.com/problems/lvable)|lvable|Easy(1.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/lvable.py)|
-|['S No Problem](https://open.kattis.com/problems/snoproblem)|snoproblem|Hard(6.6)|False|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/snoproblem.py)|
 |[(un)Fair Play](https://open.kattis.com/problems/unfairplay)|unfairplay|Hard(5.6)|False|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/unfairplay.py)|
 |[1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)|1dfroggereasy|Easy(2.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/1dfroggereasy.cpp)|
 |[10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople)|10kindsofpeople|Easy(2.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/10kindsofpeople.py)|
@@ -158,7 +157,7 @@
 ---
 Total solved: 146
 
-Total unsolved: 6
+Total unsolved: 5
 
 Average difficulty solved: 2.0468085106382987
 
