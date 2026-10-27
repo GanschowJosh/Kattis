@@ -116,6 +116,7 @@
 |[Paintings](https://open.kattis.com/problems/paintings)|paintings|Easy(2.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/paintings.py)|
 |[Palindromic Paths](https://open.kattis.com/problems/palindromicpath)|palindromicpath|Medium(5.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/palindromicpath.py)|
 |[Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon)|peachpowderpolygon|Easy(1.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/peachpowderpolygon.py)|
+|[Pebble Solitaire](https://open.kattis.com/problems/pebblesolitaire)|pebblesolitaire|Easy(1.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/pebblesolitaire.py)|
 |[Planting Trees](https://open.kattis.com/problems/plantingtrees)|plantingtrees|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/plantingtrees.py)|
 |[Platform Placing](https://open.kattis.com/problems/platformplacing)|platformplacing|Medium(4.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/platformplacing.py)|
 |[Pokechat](https://open.kattis.com/problems/pokechat)|pokechat|Easy(1.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/pokechat.py)|
@@ -160,12 +161,12 @@
 
 
 ---
-Total solved: 151
+Total solved: 152
 
 Total unsolved: 5
 
-Average difficulty solved: 2.0683937823834198
+Average difficulty solved: 2.066494845360825
 
-Average of last 10: 2.83
+Average of last 10: 2.8
 
 Highest Difficulty: 8.6 (browniecutting)
