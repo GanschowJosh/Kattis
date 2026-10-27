@@ -100,6 +100,7 @@
 |[Maximizing Your Pay](https://open.kattis.com/problems/maximizingyourpay)|maximizingyourpay|Medium(4.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/maximizingyourpay.py)|
 |[MazeMan](https://open.kattis.com/problems/mazeman)|mazeman|Medium(3.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/mazeman.py)|
 |[Menu Updates](https://open.kattis.com/problems/menuupdates)|menuupdates|Medium(3.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/menuupdates.py)|
+|[Millionaire Madness](https://open.kattis.com/problems/millionairemadness)|millionairemadness|Easy(1.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/millionairemadness.py)|
 |[Minimum Scalar Product](https://open.kattis.com/problems/minimumscalar)|minimumscalar|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/minimumscalar.py)|
 |[Mission Improbable](https://open.kattis.com/problems/improbable)|improbable|Medium(4.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/improbable.py)|
 |[Mixtape Management](https://open.kattis.com/problems/mixtapemanagement)|mixtapemanagement|Medium(4.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/mixtapemanagement.py)|
@@ -163,12 +164,12 @@
 
 
 ---
-Total solved: 154
+Total solved: 155
 
 Total unsolved: 5
 
-Average difficulty solved: 2.0770408163265306
+Average difficulty solved: 2.0751269035532998
 
-Average of last 10: 2.87
+Average of last 10: 2.76
 
 Highest Difficulty: 8.6 (browniecutting)
