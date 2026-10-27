@@ -20,7 +20,7 @@
 |[A Pivotal Question](https://open.kattis.com/problems/apivotalquestion)|apivotalquestion|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/apivotalquestion.py)|
 |[A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin)|aprizenoonecanwin|Easy(2.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/aprizenoonecanwin.py)|
 |[A Rank Problem](https://open.kattis.com/problems/rankproblem)|rankproblem|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/rankproblem.py)|
-|[A Tree and Two Edges](https://open.kattis.com/problems/atreeandtwoedges)|atreeandtwoedges|Hard(7.3)|False|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/atreeandtwoedges.py)|
+|[A Tree and Two Edges](https://open.kattis.com/problems/atreeandtwoedges)|atreeandtwoedges|Hard(7.3)|False|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/atreeandtwoedges.cpp)|
 |[A1 Paper](https://open.kattis.com/problems/a1paper)|a1paper|Medium(4.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/a1paper.py)|
 |[ABC String](https://open.kattis.com/problems/abcstring)|abcstring|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/abcstring.py)|
 |[Abridged Reading](https://open.kattis.com/problems/abridgedreading)|abridgedreading|Medium(4.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/abridgedreading.py)|
@@ -87,11 +87,12 @@
 |[Imperfect GPS](https://open.kattis.com/problems/imperfectgps)|imperfectgps|Medium(3.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/imperfectgps.py)|
 |[Inputmaxxing](https://open.kattis.com/problems/inputmaxxing)|inputmaxxing|Medium(3.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/inputmaxxing.py)|
 |[Interpreter](https://open.kattis.com/problems/interpreter)|interpreter|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/interpreter.py)|
+|[Island Hopping](https://open.kattis.com/problems/islandhopping)|islandhopping|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/islandhopping.py)|
 |[Jack and Jill](https://open.kattis.com/problems/jackandjill)|jackandjill|Medium(4.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/jackandjill.py)|
 |[Jane Eyre](https://open.kattis.com/problems/janeeyre)|janeeyre|Medium(3.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/janeeyre.py)|
 |[Join Strings](https://open.kattis.com/problems/joinstrings)|joinstrings|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/joinstrings.py)|
 |[Jumbled Compass](https://open.kattis.com/problems/compass)|compass|Easy(1.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/compass.py)|
-|[Knapsack](https://open.kattis.com/problems/knapsack)|knapsack|Medium(3.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/knapsack.cpp)|
+|[Knapsack](https://open.kattis.com/problems/knapsack)|knapsack|Medium(3.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/knapsack.py)|
 |[Last Dance](https://open.kattis.com/problems/lastdance)|lastdance|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/lastdance.py)|
 |[Line Them Up](https://open.kattis.com/problems/lineup)|lineup|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/lineup.py)|
 |[Lines Per Hour](https://open.kattis.com/problems/linesperhour)|linesperhour|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/linesperhour.py)|
@@ -107,7 +108,7 @@
 |[Mixtape Management](https://open.kattis.com/problems/mixtapemanagement)|mixtapemanagement|Medium(4.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/mixtapemanagement.py)|
 |[Miði](https://open.kattis.com/problems/midi)|midi|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/midi.py)|
 |[Modulo](https://open.kattis.com/problems/modulo)|modulo|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/modulo.py)|
-|[Modulo Solitaire](https://open.kattis.com/problems/modulosolitaire)|modulosolitaire|Easy(2.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/modulosolitaire.c)|
+|[Modulo Solitaire](https://open.kattis.com/problems/modulosolitaire)|modulosolitaire|Easy(2.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/modulosolitaire.py)|
 |[Monopoly](https://open.kattis.com/problems/monopol)|monopol|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/monopol.c)|
 |[Musical Chairs](https://open.kattis.com/problems/musicalchairs)|musicalchairs|Easy(2.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/musicalchairs.py)|
 |[My System](https://open.kattis.com/problems/mysystem)|mysystem|Medium(3.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/mysystem.py)|
@@ -166,12 +167,12 @@
 
 
 ---
-Total solved: 158
+Total solved: 159
 
 Total unsolved: 4
 
-Average difficulty solved: 2.0785
+Average difficulty solved: 2.0781094527363186
 
-Average of last 10: 2.62
+Average of last 10: 2.44
 
 Highest Difficulty: 8.6 (browniecutting)
