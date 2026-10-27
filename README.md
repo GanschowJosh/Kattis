@@ -50,6 +50,7 @@
 |[Busy Schedule](https://open.kattis.com/problems/busyschedule)|busyschedule|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/busyschedule.py)|
 |[Button Bashing](https://open.kattis.com/problems/buttonbashing)|buttonbashing|Easy(2.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/buttonbashing.py)|
 |[CD](https://open.kattis.com/problems/cd)|cd|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/cd.py)|
+|[Cave Exploration](https://open.kattis.com/problems/caveexploration2)|caveexploration2|Medium(3.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/caveexploration2.py)|
 |[Ceiling Function](https://open.kattis.com/problems/ceiling)|ceiling|Easy(1.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/ceiling.py)|
 |[Champernowne Verification](https://open.kattis.com/problems/champernowneverification)|champernowneverification|Easy(1.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/champernowneverification.py)|
 |[Class Field Trip](https://open.kattis.com/problems/classfieldtrip)|classfieldtrip|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/classfieldtrip.py)|
@@ -161,12 +162,12 @@
 
 
 ---
-Total solved: 152
+Total solved: 153
 
 Total unsolved: 5
 
-Average difficulty solved: 2.066494845360825
+Average difficulty solved: 2.0733333333333333
 
-Average of last 10: 2.8
+Average of last 10: 2.83
 
 Highest Difficulty: 8.6 (browniecutting)
