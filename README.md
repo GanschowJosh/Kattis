@@ -72,6 +72,7 @@
 |[Exact Change](https://open.kattis.com/problems/exactchange3)|exactchange3|Medium(3.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/exactchange3.py)|
 |[Explosion Exploit](https://open.kattis.com/problems/explosion)|explosion|Medium(4.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/explosion.py)|
 |[Fairytale](https://open.kattis.com/problems/fairytale)|fairytale|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/fairytale.py)|
+|[Flowery Trails](https://open.kattis.com/problems/flowerytrails)|flowerytrails|Medium(2.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/flowerytrails.py)|
 |[Free-Form Input](https://open.kattis.com/problems/freeforminput)|freeforminput|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/freeforminput.py)|
 |[Frogger](https://open.kattis.com/problems/frogger)|frogger|Medium(5.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/frogger.py)|
 |[Ghost Leg](https://open.kattis.com/problems/ghostleg)|ghostleg|Easy(1.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/ghostleg.py)|
@@ -162,12 +163,12 @@
 
 
 ---
-Total solved: 153
+Total solved: 154
 
 Total unsolved: 5
 
-Average difficulty solved: 2.0733333333333333
+Average difficulty solved: 2.0770408163265306
 
-Average of last 10: 2.83
+Average of last 10: 2.87
 
 Highest Difficulty: 8.6 (browniecutting)
