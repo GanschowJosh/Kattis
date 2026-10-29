@@ -89,6 +89,7 @@
 |[Imperfect GPS](https://open.kattis.com/problems/imperfectgps)|imperfectgps|Medium(3.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/imperfectgps.py)|
 |[Inputmaxxing](https://open.kattis.com/problems/inputmaxxing)|inputmaxxing|Medium(3.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/inputmaxxing.py)|
 |[Interpreter](https://open.kattis.com/problems/interpreter)|interpreter|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/interpreter.py)|
+|[Interval Cover](https://open.kattis.com/problems/intervalcover)|intervalcover|Medium(4.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/intervalcover.py)|
 |[Island Hopping](https://open.kattis.com/problems/islandhopping)|islandhopping|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/islandhopping.py)|
 |[Jack and Jill](https://open.kattis.com/problems/jackandjill)|jackandjill|Medium(4.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/jackandjill.py)|
 |[Jane Eyre](https://open.kattis.com/problems/janeeyre)|janeeyre|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/janeeyre.py)|
@@ -169,12 +170,12 @@
 
 
 ---
-Total solved: 161
+Total solved: 162
 
 Total unsolved: 4
 
-Average difficulty solved: 2.1009852216748772
+Average difficulty solved: 2.1117647058823534
 
-Average of last 10: 2.68
+Average of last 10: 2.9400000000000004
 
 Highest Difficulty: 8.6 (browniecutting)
