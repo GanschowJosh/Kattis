@@ -175,7 +175,7 @@ Total solved: 163
 
 Total unsolved: 4
 
-Average difficulty solved: 2.112682926829269
+Average difficulty solved: 2.10242718446602
 
 Average of last 10: 2.81
 
