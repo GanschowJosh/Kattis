@@ -13,14 +13,14 @@
 |[A Classy Problem](https://open.kattis.com/problems/classy)|classy|Easy(2.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/classy.py)|
 |[A Different Problem](https://open.kattis.com/problems/different)|different|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/different.py)|
 |[A Favourable Ending](https://open.kattis.com/problems/favourable)|favourable|Easy(2.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/favourable.py)|
-|[A Feast For Cats](https://open.kattis.com/problems/cats)|cats|Medium(3.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/cats.py)|
+|[A Feast For Cats](https://open.kattis.com/problems/cats)|cats|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/cats.py)|
 |[A Furious Cocktail](https://open.kattis.com/problems/cocktail)|cocktail|Easy(2.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/cocktail.py)|
 |[A Little to the Right](https://open.kattis.com/problems/alittletotheright)|alittletotheright|Medium(4.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/alittletotheright.py)|
 |[A Multiplication Game](https://open.kattis.com/problems/amultiplicationgame)|amultiplicationgame|Easy(2.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/amultiplicationgame.py)|
 |[A Pivotal Question](https://open.kattis.com/problems/apivotalquestion)|apivotalquestion|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/apivotalquestion.py)|
 |[A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin)|aprizenoonecanwin|Easy(2.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/aprizenoonecanwin.py)|
 |[A Rank Problem](https://open.kattis.com/problems/rankproblem)|rankproblem|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/rankproblem.py)|
-|[A Tree and Two Edges](https://open.kattis.com/problems/atreeandtwoedges)|atreeandtwoedges|Hard(7.3)|False|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/atreeandtwoedges.cpp)|
+|[A Tree and Two Edges](https://open.kattis.com/problems/atreeandtwoedges)|atreeandtwoedges|Hard(7.3)|False|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/atreeandtwoedges.py)|
 |[A1 Paper](https://open.kattis.com/problems/a1paper)|a1paper|Medium(4.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/a1paper.py)|
 |[ABC String](https://open.kattis.com/problems/abcstring)|abcstring|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/abcstring.py)|
 |[Abridged Reading](https://open.kattis.com/problems/abridgedreading)|abridgedreading|Medium(4.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/abridgedreading.py)|
@@ -39,24 +39,25 @@
 |[Bard](https://open.kattis.com/problems/bard)|bard|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/bard.py)|
 |[Basic Programming 1](https://open.kattis.com/problems/basicprogramming1)|basicprogramming1|Medium(3.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/basicprogramming1.py)|
 |[Birds on a Wire](https://open.kattis.com/problems/birds)|birds|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/birds.py)|
-|[Blimps Fort Barricade](https://open.kattis.com/problems/blimpsfortbarricade)|blimpsfortbarricade|Medium(3.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/blimpsfortbarricade.py)|
+|[Blimps Fort Barricade](https://open.kattis.com/problems/blimpsfortbarricade)|blimpsfortbarricade|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/blimpsfortbarricade.py)|
 |[Block Crusher](https://open.kattis.com/problems/blockcrusher)|blockcrusher|Medium(2.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/blockcrusher.py)|
 |[Borðspil](https://open.kattis.com/problems/bordspil)|bordspil|Medium(3.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/bordspil.py)|
 |[Bread Sorting](https://open.kattis.com/problems/bread)|bread|Medium(3.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/bread.py)|
-|[Breaking Bad](https://open.kattis.com/problems/breakingbad)|breakingbad|Easy(2.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/breakingbad.py)|
-|[Breaking Maze](https://open.kattis.com/problems/breakmaze)|breakmaze|Medium(2.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/breakmaze.py)|
+|[Breaking Bad](https://open.kattis.com/problems/breakingbad)|breakingbad|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/breakingbad.py)|
+|[Breaking Maze](https://open.kattis.com/problems/breakmaze)|breakmaze|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/breakmaze.py)|
 |[Brownie Cutting](https://open.kattis.com/problems/browniecutting)|browniecutting|Hard(8.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/browniecutting.py)|
 |[Bungee Builder](https://open.kattis.com/problems/bungeebuilder)|bungeebuilder|Easy(2.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/bungeebuilder.py)|
 |[Busy Schedule](https://open.kattis.com/problems/busyschedule)|busyschedule|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/busyschedule.py)|
 |[Button Bashing](https://open.kattis.com/problems/buttonbashing)|buttonbashing|Easy(2.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/buttonbashing.py)|
-|[CD](https://open.kattis.com/problems/cd)|cd|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/cd.py)|
-|[Cave Exploration](https://open.kattis.com/problems/caveexploration2)|caveexploration2|Medium(3.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/caveexploration2.py)|
+|[CD](https://open.kattis.com/problems/cd)|cd|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/cd.py)|
+|[Cave Exploration](https://open.kattis.com/problems/caveexploration2)|caveexploration2|Medium(3.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/caveexploration2.py)|
 |[Ceiling Function](https://open.kattis.com/problems/ceiling)|ceiling|Easy(1.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/ceiling.py)|
 |[Champernowne Verification](https://open.kattis.com/problems/champernowneverification)|champernowneverification|Easy(1.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/champernowneverification.py)|
 |[Class Field Trip](https://open.kattis.com/problems/classfieldtrip)|classfieldtrip|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/classfieldtrip.py)|
+|[Classrooms](https://open.kattis.com/problems/classrooms)|classrooms|Medium(3.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/classrooms.py)|
 |[Coast Length](https://open.kattis.com/problems/coast)|coast|Easy(2.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/coast.py)|
 |[Cold-puter Science](https://open.kattis.com/problems/cold)|cold|Easy(1.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/cold.py)|
-|[Contest Advancement](https://open.kattis.com/problems/contestadvancement)|contestadvancement|Medium(3.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/contestadvancement.py)|
+|[Contest Advancement](https://open.kattis.com/problems/contestadvancement)|contestadvancement|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/contestadvancement.py)|
 |[Cookie Monster Concussion](https://open.kattis.com/problems/cookiemonsterconcussion)|cookiemonsterconcussion|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/cookiemonsterconcussion.cpp)|
 |[Delimiter Soup](https://open.kattis.com/problems/delimitersoup)|delimitersoup|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/delimitersoup.py)|
 |[Dice Cup](https://open.kattis.com/problems/dicecup)|dicecup|Easy(1.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/dicecup.py)|
@@ -65,10 +66,10 @@
 |[Disastrous Downtime](https://open.kattis.com/problems/downtime)|downtime|Easy(2.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/downtime.py)|
 |[Diverse Contest](https://open.kattis.com/problems/diversecontest)|diversecontest|Easy(2.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/diversecontest.py)|
 |[Efficient Exchange](https://open.kattis.com/problems/efficientexchange)|efficientexchange|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/efficientexchange.py)|
-|[Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)|elevatortrouble|Easy(1.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/elevatortrouble.py)|
+|[Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)|elevatortrouble|Easy(1.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/elevatortrouble.py)|
 |[Espresso Macchiato](https://open.kattis.com/problems/espressomacchiato)|espressomacchiato|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/espressomacchiato.py)|
 |[Exact Change](https://open.kattis.com/problems/exactchange)|exactchange|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/exactchange.py)|
-|[Exact Change](https://open.kattis.com/problems/exactchange2)|exactchange2|Medium(3.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/exactchange2.py)|
+|[Exact Change](https://open.kattis.com/problems/exactchange2)|exactchange2|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/exactchange2.py)|
 |[Exact Change](https://open.kattis.com/problems/exactchange3)|exactchange3|Medium(3.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/exactchange3.py)|
 |[Explosion Exploit](https://open.kattis.com/problems/explosion)|explosion|Medium(4.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/explosion.py)|
 |[Fairytale](https://open.kattis.com/problems/fairytale)|fairytale|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/fairytale.py)|
@@ -81,18 +82,18 @@
 |[HARDFLOR](https://open.kattis.com/problems/hardflor)|hardflor|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/hardflor.py)|
 |[Hardware](https://open.kattis.com/problems/hardware)|hardware|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/hardware.py)|
 |[Hay Points](https://open.kattis.com/problems/haypoints)|haypoints|Easy(1.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/haypoints.py)|
-|[Highest Hill](https://open.kattis.com/problems/highesthill)|highesthill|Medium(4.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/highesthill.py)|
+|[Highest Hill](https://open.kattis.com/problems/highesthill)|highesthill|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/highesthill.py)|
 |[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)|hissingmicrophone|Easy(1.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/hissingmicrophone.cpp)|
 |[I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)|everywhere|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/everywhere.py)|
-|[Imperfect GPS](https://open.kattis.com/problems/imperfectgps)|imperfectgps|Medium(3.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/imperfectgps.py)|
+|[Imperfect GPS](https://open.kattis.com/problems/imperfectgps)|imperfectgps|Medium(3.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/imperfectgps.py)|
 |[Inputmaxxing](https://open.kattis.com/problems/inputmaxxing)|inputmaxxing|Medium(3.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/inputmaxxing.py)|
 |[Interpreter](https://open.kattis.com/problems/interpreter)|interpreter|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/interpreter.py)|
 |[Island Hopping](https://open.kattis.com/problems/islandhopping)|islandhopping|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/islandhopping.py)|
 |[Jack and Jill](https://open.kattis.com/problems/jackandjill)|jackandjill|Medium(4.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/jackandjill.py)|
-|[Jane Eyre](https://open.kattis.com/problems/janeeyre)|janeeyre|Medium(3.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/janeeyre.py)|
+|[Jane Eyre](https://open.kattis.com/problems/janeeyre)|janeeyre|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/janeeyre.py)|
 |[Join Strings](https://open.kattis.com/problems/joinstrings)|joinstrings|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/joinstrings.py)|
 |[Jumbled Compass](https://open.kattis.com/problems/compass)|compass|Easy(1.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/compass.py)|
-|[Knapsack](https://open.kattis.com/problems/knapsack)|knapsack|Medium(3.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/knapsack.py)|
+|[Knapsack](https://open.kattis.com/problems/knapsack)|knapsack|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/knapsack.cpp)|
 |[Last Dance](https://open.kattis.com/problems/lastdance)|lastdance|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/lastdance.py)|
 |[Line Them Up](https://open.kattis.com/problems/lineup)|lineup|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/lineup.py)|
 |[Lines Per Hour](https://open.kattis.com/problems/linesperhour)|linesperhour|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/linesperhour.py)|
@@ -105,21 +106,21 @@
 |[Millionaire Madness](https://open.kattis.com/problems/millionairemadness)|millionairemadness|Easy(1.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/millionairemadness.py)|
 |[Minimum Scalar Product](https://open.kattis.com/problems/minimumscalar)|minimumscalar|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/minimumscalar.py)|
 |[Mission Improbable](https://open.kattis.com/problems/improbable)|improbable|Medium(4.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/improbable.py)|
-|[Mixtape Management](https://open.kattis.com/problems/mixtapemanagement)|mixtapemanagement|Medium(4.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/mixtapemanagement.py)|
+|[Mixtape Management](https://open.kattis.com/problems/mixtapemanagement)|mixtapemanagement|Medium(4.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/mixtapemanagement.py)|
 |[Miði](https://open.kattis.com/problems/midi)|midi|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/midi.py)|
 |[Modulo](https://open.kattis.com/problems/modulo)|modulo|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/modulo.py)|
-|[Modulo Solitaire](https://open.kattis.com/problems/modulosolitaire)|modulosolitaire|Easy(2.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/modulosolitaire.py)|
+|[Modulo Solitaire](https://open.kattis.com/problems/modulosolitaire)|modulosolitaire|Easy(2.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/modulosolitaire.c)|
 |[Monopoly](https://open.kattis.com/problems/monopol)|monopol|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/monopol.c)|
 |[Musical Chairs](https://open.kattis.com/problems/musicalchairs)|musicalchairs|Easy(2.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/musicalchairs.py)|
-|[My System](https://open.kattis.com/problems/mysystem)|mysystem|Medium(3.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/mysystem.py)|
+|[My System](https://open.kattis.com/problems/mysystem)|mysystem|Medium(3.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/mysystem.py)|
 |[NOP](https://open.kattis.com/problems/nop)|nop|Easy(1.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/nop.py)|
 |[Narrow Art Gallery](https://open.kattis.com/problems/narrowartgallery)|narrowartgallery|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/narrowartgallery.py)|
-|[Nikola](https://open.kattis.com/problems/nikola)|nikola|Medium(3.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/nikola.py)|
+|[Nikola](https://open.kattis.com/problems/nikola)|nikola|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/nikola.py)|
 |[Oddities](https://open.kattis.com/problems/oddities)|oddities|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/oddities.py)|
 |[Only One Order](https://open.kattis.com/problems/onlyoneorder)|onlyoneorder|Medium(2.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/onlyoneorder.py)|
 |[Orðla](https://open.kattis.com/problems/ordla)|ordla|Hard(9.8)|False|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/ordla.py)|
 |[Paintings](https://open.kattis.com/problems/paintings)|paintings|Easy(2.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/paintings.py)|
-|[Palindromic Paths](https://open.kattis.com/problems/palindromicpath)|palindromicpath|Medium(5.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/palindromicpath.py)|
+|[Palindromic Paths](https://open.kattis.com/problems/palindromicpath)|palindromicpath|Hard(5.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/palindromicpath.py)|
 |[Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon)|peachpowderpolygon|Easy(1.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/peachpowderpolygon.py)|
 |[Pebble Solitaire](https://open.kattis.com/problems/pebblesolitaire)|pebblesolitaire|Easy(1.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/pebblesolitaire.py)|
 |[Planting Trees](https://open.kattis.com/problems/plantingtrees)|plantingtrees|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/plantingtrees.py)|
@@ -130,19 +131,19 @@
 |[R2](https://open.kattis.com/problems/r2)|r2|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/r2.py)|
 |[Radioactive Blastervium](https://open.kattis.com/problems/radioactiveblastervium)|radioactiveblastervium|Medium(4.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/radioactiveblastervium.py)|
 |[Rampant Growth](https://open.kattis.com/problems/rampantgrowth)|rampantgrowth|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/rampantgrowth.py)|
-|[Redundant Binary Notation](https://open.kattis.com/problems/redundantbinarynotation)|redundantbinarynotation|Medium(5.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/redundantbinarynotation.py)|
+|[Redundant Binary Notation](https://open.kattis.com/problems/redundantbinarynotation)|redundantbinarynotation|Medium(5.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/redundantbinarynotation.py)|
 |[Regarde!](https://open.kattis.com/problems/regarde)|regarde|Easy(1.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/regarde.py)|
 |[Relocation](https://open.kattis.com/problems/relocation)|relocation|Easy(1.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/relocation.py)|
 |[Restaurant Orders](https://open.kattis.com/problems/orders)|orders|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/orders.py)|
 |[Running MoM](https://open.kattis.com/problems/runningmom)|runningmom|Medium(3.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/runningmom.py)|
 |[Secret Chamber at Mount Rushmore](https://open.kattis.com/problems/secretchamber)|secretchamber|Easy(2.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/secretchamber.py)|
 |[Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)|shortestpath1|Easy(1.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/shortestpath1.py)|
-|[Six Seven](https://open.kattis.com/problems/sixseven3)|sixseven3|Medium(3.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/sixseven3.py)|
-|[Sort of Sorting](https://open.kattis.com/problems/sortofsorting)|sortofsorting|Easy(1.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/sortofsorting.py)|
+|[Six Seven](https://open.kattis.com/problems/sixseven3)|sixseven3|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/sixseven3.py)|
+|[Sort of Sorting](https://open.kattis.com/problems/sortofsorting)|sortofsorting|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/sortofsorting.py)|
 |[Speed Limit](https://open.kattis.com/problems/speedlimit)|speedlimit|Easy(1.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/speedlimit.py)|
-|[Spiderman's Workout](https://open.kattis.com/problems/spiderman)|spiderman|Medium(2.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/spiderman.py)|
+|[Spiderman's Workout](https://open.kattis.com/problems/spiderman)|spiderman|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/spiderman.py)|
 |[Square Search](https://open.kattis.com/problems/squaresearch)|squaresearch|Medium(4.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/squaresearch.py)|
-|[Stardust Curry](https://open.kattis.com/problems/stardustcurry)|stardustcurry|Easy(1.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/stardustcurry.py)|
+|[Stardust Curry](https://open.kattis.com/problems/stardustcurry)|stardustcurry|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/stardustcurry.py)|
 |[Statistics](https://open.kattis.com/problems/statistics)|statistics|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/statistics.py)|
 |[Straight Road Communications](https://open.kattis.com/problems/straightroadcommunications)|straightroadcommunications|Medium(4.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/straightroadcommunications.py)|
 |[String Matching](https://open.kattis.com/problems/stringmatching)|stringmatching|Medium(3.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/stringmatching.py)|
@@ -150,13 +151,13 @@
 |[Tarifa](https://open.kattis.com/problems/tarifa)|tarifa|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/tarifa.py)|
 |[Teque](https://open.kattis.com/problems/teque)|teque|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/teque.py)|
 |[Texas Summers](https://open.kattis.com/problems/texassummers)|texassummers|Medium(3.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/texassummers.py)|
-|[The n Days of Christmas](https://open.kattis.com/problems/thendaysofchristmas2)|thendaysofchristmas2|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/thendaysofchristmas2.py)|
+|[The n Days of Christmas](https://open.kattis.com/problems/thendaysofchristmas2)|thendaysofchristmas2|Medium(3.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/thendaysofchristmas2.py)|
 |[Tracking Shares](https://open.kattis.com/problems/trackingshares)|trackingshares|Easy(2.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/trackingshares.py)|
 |[Training](https://open.kattis.com/problems/training)|training|Easy(1.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/training.py)|
 |[Travel the Skies](https://open.kattis.com/problems/traveltheskies)|traveltheskies|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/traveltheskies.py)|
 |[Triple Sevens](https://open.kattis.com/problems/triplesevens)|triplesevens|Easy(1.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/triplesevens.py)|
 |[Two Charts Become One](https://open.kattis.com/problems/twochartsbecomeone)|twochartsbecomeone|Medium(4.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/twochartsbecomeone.py)|
-|[Unique Snowflakes](https://open.kattis.com/problems/snowflakes)|snowflakes|Medium(3.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/snowflakes.py)|
+|[Unique Snowflakes](https://open.kattis.com/problems/snowflakes)|snowflakes|Medium(3.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/snowflakes.py)|
 |[Unlock Pattern](https://open.kattis.com/problems/unlockpattern)|unlockpattern|Easy(1.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/unlockpattern.py)|
 |[VivoParc](https://open.kattis.com/problems/vivoparc)|vivoparc|Medium(4.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/vivoparc.py)|
 |[Walrus Weights](https://open.kattis.com/problems/walrusweights)|walrusweights|Easy(2.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/walrusweights.py)|
@@ -167,12 +168,12 @@
 
 
 ---
-Total solved: 159
+Total solved: 160
 
 Total unsolved: 4
 
-Average difficulty solved: 2.0781094527363186
+Average difficulty solved: 2.085643564356436
 
-Average of last 10: 2.44
+Average of last 10: 2.3899999999999997
 
 Highest Difficulty: 8.6 (browniecutting)
