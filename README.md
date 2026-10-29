@@ -67,6 +67,7 @@
 |[Diverse Contest](https://open.kattis.com/problems/diversecontest)|diversecontest|Easy(2.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/diversecontest.py)|
 |[Efficient Exchange](https://open.kattis.com/problems/efficientexchange)|efficientexchange|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/efficientexchange.py)|
 |[Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)|elevatortrouble|Easy(1.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/elevatortrouble.py)|
+|[Entertainment Box](https://open.kattis.com/problems/entertainmentbox)|entertainmentbox|Medium(5.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/entertainmentbox.py)|
 |[Espresso Macchiato](https://open.kattis.com/problems/espressomacchiato)|espressomacchiato|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/espressomacchiato.py)|
 |[Exact Change](https://open.kattis.com/problems/exactchange)|exactchange|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/exactchange.py)|
 |[Exact Change](https://open.kattis.com/problems/exactchange2)|exactchange2|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/exactchange2.py)|
@@ -168,12 +169,12 @@
 
 
 ---
-Total solved: 160
+Total solved: 161
 
 Total unsolved: 4
 
-Average difficulty solved: 2.085643564356436
+Average difficulty solved: 2.1009852216748772
 
-Average of last 10: 2.3899999999999997
+Average of last 10: 2.68
 
 Highest Difficulty: 8.6 (browniecutting)
