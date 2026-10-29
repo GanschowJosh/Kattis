@@ -75,9 +75,11 @@
 |[Exact Change](https://open.kattis.com/problems/exactchange3)|exactchange3|Medium(3.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/exactchange3.py)|
 |[Explosion Exploit](https://open.kattis.com/problems/explosion)|explosion|Medium(4.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/explosion.py)|
 |[Fairytale](https://open.kattis.com/problems/fairytale)|fairytale|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/fairytale.py)|
+|[Faulty Robot](https://open.kattis.com/problems/faultyrobot)|faultyrobot|Easy(2.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/faultyrobot.py)|
 |[Flowery Trails](https://open.kattis.com/problems/flowerytrails)|flowerytrails|Medium(2.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/flowerytrails.py)|
 |[Free-Form Input](https://open.kattis.com/problems/freeforminput)|freeforminput|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/freeforminput.py)|
 |[Frogger](https://open.kattis.com/problems/frogger)|frogger|Medium(5.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/frogger.py)|
+|[Frosh Week](https://open.kattis.com/problems/froshweek2)|froshweek2|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/froshweek2.py)|
 |[Ghost Leg](https://open.kattis.com/problems/ghostleg)|ghostleg|Easy(1.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/ghostleg.py)|
 |[Grass Seed Inc.](https://open.kattis.com/problems/grassseed)|grassseed|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/grassseed.py)|
 |[Grid](https://open.kattis.com/problems/grid)|grid|Easy(2.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/grid.py)|
@@ -166,17 +168,18 @@
 |[Walrus Weights](https://open.kattis.com/problems/walrusweights)|walrusweights|Easy(2.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/walrusweights.py)|
 |[Watering Grass](https://open.kattis.com/problems/grass)|grass|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/grass.py)|
 |[Waterworld](https://open.kattis.com/problems/waterworld)|waterworld|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/waterworld.py)|
+|[White Water Rafting](https://open.kattis.com/problems/rafting)|rafting|Easy(2.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/rafting.py)|
 |[Zagrade](https://open.kattis.com/problems/zagrade)|zagrade|Easy(2.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/zagrade.py)|
 |[Óvissa](https://open.kattis.com/problems/ovissa)|ovissa|Easy(1.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/ovissa.py)|
 
 
 ---
-Total solved: 163
+Total solved: 166
 
 Total unsolved: 4
 
-Average difficulty solved: 2.10242718446602
+Average difficulty solved: 2.103349282296651
 
-Average of last 10: 2.81
+Average of last 10: 2.8500000000000005
 
 Highest Difficulty: 8.6 (browniecutting)
