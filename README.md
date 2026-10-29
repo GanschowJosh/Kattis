@@ -31,6 +31,7 @@
 |[Almost Union-Find](https://open.kattis.com/problems/almostunionfind)|almostunionfind|Medium(3.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/almostunionfind.py)|
 |[Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)|artichoke|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/artichoke.py)|
 |[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|apaxiaaans|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/apaxiaaans.py)|
+|[Assigning Workstations](https://open.kattis.com/problems/workstations)|workstations|Easy(2.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/workstations.py)|
 |[Association for Computing Machinery](https://open.kattis.com/problems/acm2)|acm2|Easy(2.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/acm2.py)|
 |[Autori](https://open.kattis.com/problems/autori)|autori|Easy(1.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/autori.py)|
 |[Baby Shark](https://open.kattis.com/problems/babyshark)|babyshark|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/babyshark.py)|
@@ -170,12 +171,12 @@
 
 
 ---
-Total solved: 162
+Total solved: 163
 
 Total unsolved: 4
 
-Average difficulty solved: 2.1117647058823534
+Average difficulty solved: 2.112682926829269
 
-Average of last 10: 2.9400000000000004
+Average of last 10: 2.81
 
 Highest Difficulty: 8.6 (browniecutting)
