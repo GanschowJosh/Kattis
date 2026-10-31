@@ -36,6 +36,7 @@
 |[Association for Computing Machinery](https://open.kattis.com/problems/acm2)|acm2|Easy(2.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/acm2.py)|
 |[Association for Control Over Minds](https://open.kattis.com/problems/control)|control|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/control.py)|
 |[Autori](https://open.kattis.com/problems/autori)|autori|Easy(1.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/autori.py)|
+|[Average Substring Value](https://open.kattis.com/problems/averagesubstringvalue)|averagesubstringvalue|Hard(5.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/averagesubstringvalue.py)|
 |[Baby Shark](https://open.kattis.com/problems/babyshark)|babyshark|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/babyshark.py)|
 |[Babylon](https://open.kattis.com/problems/babylon)|babylon|Medium(4.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/babylon.py)|
 |[Bank Queue](https://open.kattis.com/problems/bank)|bank|Easy(2.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/bank.py)|
@@ -179,12 +180,12 @@
 
 
 ---
-Total solved: 171
+Total solved: 172
 
 Total unsolved: 4
 
-Average difficulty solved: 2.128837209302326
+Average difficulty solved: 2.1449074074074077
 
-Average of last 10: 3.1600000000000006
+Average of last 10: 3.2900000000000005
 
 Highest Difficulty: 8.6 (browniecutting)
