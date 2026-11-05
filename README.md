@@ -84,6 +84,7 @@
 |[Fairytale](https://open.kattis.com/problems/fairytale)|fairytale|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/fairytale.py)|
 |[Faulty Robot](https://open.kattis.com/problems/faultyrobot)|faultyrobot|Easy(2.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/faultyrobot.py)|
 |[Flowery Trails](https://open.kattis.com/problems/flowerytrails)|flowerytrails|Easy(2.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/flowerytrails.py)|
+|[Free Weights](https://open.kattis.com/problems/freeweights)|freeweights|Medium(3.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/freeweights.py)|
 |[Free-Form Input](https://open.kattis.com/problems/freeforminput)|freeforminput|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/freeforminput.py)|
 |[Frogger](https://open.kattis.com/problems/frogger)|frogger|Medium(5.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/frogger.py)|
 |[Frosh Week](https://open.kattis.com/problems/froshweek2)|froshweek2|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/froshweek2.py)|
@@ -145,6 +146,7 @@
 |[Platform Placing](https://open.kattis.com/problems/platformplacing)|platformplacing|Medium(4.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/platformplacing.py)|
 |[Pokechat](https://open.kattis.com/problems/pokechat)|pokechat|Easy(1.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/pokechat.py)|
 |[Portal Orientation](https://open.kattis.com/problems/portalorientation)|portalorientation|Hard(5.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/portalorientation.py)|
+|[Presidential Elections](https://open.kattis.com/problems/presidentialelections)|presidentialelections|Medium(2.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/presidentialelections.py)|
 |[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|provincesandgold|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/provincesandgold.py)|
 |[R2](https://open.kattis.com/problems/r2)|r2|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/r2.py)|
 |[Radioactive Blastervium](https://open.kattis.com/problems/radioactiveblastervium)|radioactiveblastervium|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/radioactiveblastervium.py)|
@@ -190,12 +192,12 @@
 
 
 ---
-Total solved: 182
+Total solved: 184
 
 Total unsolved: 4
 
-Average difficulty solved: 2.1792035398230087
+Average difficulty solved: 2.1890350877192986
 
-Average of last 10: 3.29
+Average of last 10: 3.18
 
 Highest Difficulty: 8.6 (browniecutting)
