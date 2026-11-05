@@ -126,11 +126,13 @@
 |[Modulo](https://open.kattis.com/problems/modulo)|modulo|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/modulo.py)|
 |[Modulo Solitaire](https://open.kattis.com/problems/modulosolitaire)|modulosolitaire|Easy(2.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/modulosolitaire.c)|
 |[Monopoly](https://open.kattis.com/problems/monopol)|monopol|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/monopol.c)|
+|[Mountain Scenes](https://open.kattis.com/problems/scenes)|scenes|Medium(3.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/scenes.py)|
 |[Musical Chairs](https://open.kattis.com/problems/musicalchairs)|musicalchairs|Easy(2.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/musicalchairs.py)|
 |[My System](https://open.kattis.com/problems/mysystem)|mysystem|Medium(3.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/mysystem.py)|
 |[NOP](https://open.kattis.com/problems/nop)|nop|Easy(1.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/nop.py)|
 |[Narrow Art Gallery](https://open.kattis.com/problems/narrowartgallery)|narrowartgallery|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/narrowartgallery.py)|
 |[Nikola](https://open.kattis.com/problems/nikola)|nikola|Medium(3.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/nikola.py)|
+|[Nine Packs](https://open.kattis.com/problems/ninepacks)|ninepacks|Medium(2.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/ninepacks.py)|
 |[Oddities](https://open.kattis.com/problems/oddities)|oddities|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/oddities.py)|
 |[Only One Order](https://open.kattis.com/problems/onlyoneorder)|onlyoneorder|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/onlyoneorder.py)|
 |[Orðla](https://open.kattis.com/problems/ordla)|ordla|Hard(9.8)|False|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/ordla.py)|
@@ -182,17 +184,18 @@
 |[Watering Grass](https://open.kattis.com/problems/grass)|grass|Medium(2.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/grass.py)|
 |[Waterworld](https://open.kattis.com/problems/waterworld)|waterworld|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/waterworld.py)|
 |[White Water Rafting](https://open.kattis.com/problems/rafting)|rafting|Easy(2.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/rafting.py)|
+|[Wi-Fi](https://open.kattis.com/problems/wifi)|wifi|Medium(3.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/wifi.py)|
 |[Zagrade](https://open.kattis.com/problems/zagrade)|zagrade|Easy(2.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/zagrade.py)|
 |[Óvissa](https://open.kattis.com/problems/ovissa)|ovissa|Easy(1.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/ovissa.py)|
 
 
 ---
-Total solved: 179
+Total solved: 182
 
 Total unsolved: 4
 
-Average difficulty solved: 2.1659192825112106
+Average difficulty solved: 2.1792035398230087
 
-Average of last 10: 3.72
+Average of last 10: 3.29
 
 Highest Difficulty: 8.6 (browniecutting)
