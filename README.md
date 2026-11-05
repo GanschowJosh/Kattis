@@ -21,7 +21,7 @@
 |[A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin)|aprizenoonecanwin|Easy(2.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/aprizenoonecanwin.py)|
 |[A Rank Problem](https://open.kattis.com/problems/rankproblem)|rankproblem|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/rankproblem.py)|
 |[A Stack of Gold](https://open.kattis.com/problems/astackofgold)|astackofgold|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/astackofgold.py)|
-|[A Tree and Two Edges](https://open.kattis.com/problems/atreeandtwoedges)|atreeandtwoedges|Hard(7.3)|False|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/atreeandtwoedges.py)|
+|[A Tree and Two Edges](https://open.kattis.com/problems/atreeandtwoedges)|atreeandtwoedges|Hard(7.3)|False|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/atreeandtwoedges.cpp)|
 |[A1 Paper](https://open.kattis.com/problems/a1paper)|a1paper|Medium(4.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/a1paper.py)|
 |[ABC String](https://open.kattis.com/problems/abcstring)|abcstring|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/abcstring.py)|
 |[Abridged Reading](https://open.kattis.com/problems/abridgedreading)|abridgedreading|Medium(4.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/abridgedreading.py)|
@@ -32,6 +32,7 @@
 |[Almost Union-Find](https://open.kattis.com/problems/almostunionfind)|almostunionfind|Medium(3.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/almostunionfind.py)|
 |[Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)|artichoke|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/artichoke.py)|
 |[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|apaxiaaans|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/apaxiaaans.py)|
+|[Arachnophobia](https://open.kattis.com/problems/arachnophobia)|arachnophobia|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/arachnophobia.py)|
 |[Assigning Workstations](https://open.kattis.com/problems/workstations)|workstations|Easy(2.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/workstations.py)|
 |[Association for Computing Machinery](https://open.kattis.com/problems/acm2)|acm2|Easy(2.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/acm2.py)|
 |[Association for Control Over Minds](https://open.kattis.com/problems/control)|control|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/control.py)|
@@ -41,7 +42,7 @@
 |[Babylon](https://open.kattis.com/problems/babylon)|babylon|Medium(4.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/babylon.py)|
 |[Bank Queue](https://open.kattis.com/problems/bank)|bank|Easy(2.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/bank.py)|
 |[Bard](https://open.kattis.com/problems/bard)|bard|Easy(2.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/bard.py)|
-|[Basic Programming 1](https://open.kattis.com/problems/basicprogramming1)|basicprogramming1|Medium(3.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/basicprogramming1.py)|
+|[Basic Programming 1](https://open.kattis.com/problems/basicprogramming1)|basicprogramming1|Medium(3.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/basicprogramming1.cpp)|
 |[Birds on a Wire](https://open.kattis.com/problems/birds)|birds|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/birds.py)|
 |[Blimps Fort Barricade](https://open.kattis.com/problems/blimpsfortbarricade)|blimpsfortbarricade|Medium(3.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/blimpsfortbarricade.py)|
 |[Block Crusher](https://open.kattis.com/problems/blockcrusher)|blockcrusher|Medium(2.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/blockcrusher.py)|
@@ -51,6 +52,7 @@
 |[Breaking Maze](https://open.kattis.com/problems/breakmaze)|breakmaze|Medium(3.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/breakmaze.py)|
 |[Brexit](https://open.kattis.com/problems/brexit)|brexit|Easy(2.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/brexit.py)|
 |[Brownie Cutting](https://open.kattis.com/problems/browniecutting)|browniecutting|Hard(8.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/browniecutting.py)|
+|[Bumped!](https://open.kattis.com/problems/bumped)|bumped|Medium(3.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/bumped.py)|
 |[Bungee Builder](https://open.kattis.com/problems/bungeebuilder)|bungeebuilder|Easy(2.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/bungeebuilder.py)|
 |[Busy Schedule](https://open.kattis.com/problems/busyschedule)|busyschedule|Easy(2.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/busyschedule.py)|
 |[Button Bashing](https://open.kattis.com/problems/buttonbashing)|buttonbashing|Easy(2.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/buttonbashing.py)|
@@ -105,7 +107,7 @@
 |[Jane Eyre](https://open.kattis.com/problems/janeeyre)|janeeyre|Medium(3.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/janeeyre.py)|
 |[Join Strings](https://open.kattis.com/problems/joinstrings)|joinstrings|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/joinstrings.py)|
 |[Jumbled Compass](https://open.kattis.com/problems/compass)|compass|Easy(1.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/compass.py)|
-|[Knapsack](https://open.kattis.com/problems/knapsack)|knapsack|Easy(2.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/knapsack.cpp)|
+|[Knapsack](https://open.kattis.com/problems/knapsack)|knapsack|Easy(2.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/knapsack.py)|
 |[Last Dance](https://open.kattis.com/problems/lastdance)|lastdance|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/lastdance.py)|
 |[Letter Balloons](https://open.kattis.com/problems/letterballoons)|letterballoons|Medium(4.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/letterballoons.py)|
 |[Line Them Up](https://open.kattis.com/problems/lineup)|lineup|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/lineup.py)|
@@ -185,12 +187,12 @@
 
 
 ---
-Total solved: 177
+Total solved: 179
 
 Total unsolved: 4
 
-Average difficulty solved: 2.1529411764705877
+Average difficulty solved: 2.1659192825112106
 
-Average of last 10: 3.6499999999999995
+Average of last 10: 3.72
 
 Highest Difficulty: 8.6 (browniecutting)
