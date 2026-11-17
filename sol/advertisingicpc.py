@@ -7,20 +7,37 @@ ct=0
 for i,row in enumerate(gr):
   ct+=sum(1 for i in row if i==ord('?'))
 
+MOD=998244353
+
+I=ord('I')
+C=ord('C')
+P=ord('P')
+Q=ord('?')
+
+
 opts=[(ord('?'),ord('I')),(ord('?'),ord('C')),(ord('?'),ord('P')),(ord('?'),ord('C'))]
 
-for i in range(n-1):
-  for j in range(m-1):
-    c=(gr[i][j],gr[i][j+1],gr[i+1][j],gr[i+1][j+1])
-    good=True
-    for k in range(4):
-      if c[k] not in opts[k]: good=False
-    if good:
-      ct-=sum(1 for l in range(4) if c[l]==ord('?'))
-      break
-  if good: break
-else:
-  print(0)
-  exit()
+dp={(0,"", False): 1} #mask, previous letter, pattern found
+for pos in range(n*m):
+  nxt={}
+  r,c=pos//m,pos%m
+  ch=gr[r][c]
+  for (mask,lst,fd),count in dp.items():
+    nmsk=mask
+    if ch == Q: allowed=['I','C','P']
+    else: allowed=[chr(ch)]
+    for a in allowed:
+      nxfd=fd
+      if c > 0 and mask&(1<<c) and lst=='P' and a=='C':
+        nxfd=True
+      if c > 0 and lst=='I' and a=='C':
+        nmsk|=(1<<c)
+      else:
+        nmsk&=~(1<<c)
+      nxst=(nmsk,a,nxfd)
+      if nxst in nxt:nxt[nxst]+=count
+      else: nxt[nxst]=count
+      nxt[nxst]%=MOD
+  dp=nxt
 
-print(pow(3,ct,998_244_353))
+print(sum(count for (_,_,fd),count in dp.items() if fd)%MOD)
