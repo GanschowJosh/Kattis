@@ -15,6 +15,7 @@
 |[A Favourable Ending](https://open.kattis.com/problems/favourable)|favourable|Easy(2.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/favourable.py)|
 |[A Feast For Cats](https://open.kattis.com/problems/cats)|cats|Medium(3.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/cats.py)|
 |[A Furious Cocktail](https://open.kattis.com/problems/cocktail)|cocktail|Easy(2.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/cocktail.py)|
+|[A Little Leftover Pizza](https://open.kattis.com/problems/alittleleftoverpizza)|alittleleftoverpizza|Easy(1.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/alittleleftoverpizza.py)|
 |[A Little to the Right](https://open.kattis.com/problems/alittletotheright)|alittletotheright|Medium(4.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/alittletotheright.py)|
 |[A Multiplication Game](https://open.kattis.com/problems/amultiplicationgame)|amultiplicationgame|Easy(2.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/amultiplicationgame.py)|
 |[A Pivotal Question](https://open.kattis.com/problems/apivotalquestion)|apivotalquestion|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/apivotalquestion.py)|
@@ -27,11 +28,12 @@
 |[Abridged Reading](https://open.kattis.com/problems/abridgedreading)|abridgedreading|Medium(4.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/abridgedreading.py)|
 |[Adding Words](https://open.kattis.com/problems/addingwords)|addingwords|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/addingwords.py)|
 |[Administrative Difficulties](https://open.kattis.com/problems/administrativeproblems)|administrativeproblems|Medium(3.7)|False|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/administrativeproblems.py)|
-|[Advertising ICPC](https://open.kattis.com/problems/advertisingicpc)|advertisingicpc|Hard(7.4)|False|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/advertisingicpc.py)|
+|[Advertising ICPC](https://open.kattis.com/problems/advertisingicpc)|advertisingicpc|Hard(7.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/advertisingicpc.py)|
 |[Airtime](https://open.kattis.com/problems/airtime)|airtime|Easy(1.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/airtime.py)|
 |[Almost Perfect](https://open.kattis.com/problems/almostperfect)|almostperfect|Easy(2.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/almostperfect.py)|
 |[Almost Union-Find](https://open.kattis.com/problems/almostunionfind)|almostunionfind|Medium(3.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/almostunionfind.py)|
 |[Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)|artichoke|Easy(2.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/artichoke.py)|
+|[Andor Strikes Again](https://open.kattis.com/problems/andor)|andor|Medium(4.5)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/andor.py)|
 |[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|apaxiaaans|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/apaxiaaans.py)|
 |[Arachnophobia](https://open.kattis.com/problems/arachnophobia)|arachnophobia|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/arachnophobia.py)|
 |[Assigning Workstations](https://open.kattis.com/problems/workstations)|workstations|Easy(2.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/workstations.py)|
@@ -87,6 +89,7 @@
 |[Fairytale](https://open.kattis.com/problems/fairytale)|fairytale|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/fairytale.py)|
 |[Faulty Robot](https://open.kattis.com/problems/faultyrobot)|faultyrobot|Easy(2.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/faultyrobot.py)|
 |[Flowery Trails](https://open.kattis.com/problems/flowerytrails)|flowerytrails|Easy(2.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/flowerytrails.py)|
+|[Fractional Sequence](https://open.kattis.com/problems/fractionalsequence)|fractionalsequence|Easy(1.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/fractionalsequence.py)|
 |[Free Weights](https://open.kattis.com/problems/freeweights)|freeweights|Medium(3.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/freeweights.py)|
 |[Free-Form Input](https://open.kattis.com/problems/freeforminput)|freeforminput|Easy(2.1)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/freeforminput.py)|
 |[Friend Meetup](https://open.kattis.com/problems/friendmeetup)|friendmeetup|Hard(6.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/friendmeetup.py)|
@@ -102,6 +105,7 @@
 |[Highest Hill](https://open.kattis.com/problems/highesthill)|highesthill|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/highesthill.py)|
 |[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)|hissingmicrophone|Easy(1.2)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/hissingmicrophone.cpp)|
 |[Hoppers](https://open.kattis.com/problems/hoppers)|hoppers|Medium(3.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/hoppers.py)|
+|[How Many Balls?](https://open.kattis.com/problems/howmanyballs)|howmanyballs|Hard(5.7)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/howmanyballs.py)|
 |[I Could Have Won](https://open.kattis.com/problems/icouldhavewon)|icouldhavewon|Medium(2.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/icouldhavewon.py)|
 |[I Don't Miss Pennies](https://open.kattis.com/problems/idontmisspennies)|idontmisspennies|Medium(3.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/idontmisspennies.py)|
 |[I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)|everywhere|Easy(1.3)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/everywhere.py)|
@@ -114,7 +118,7 @@
 |[Jane Eyre](https://open.kattis.com/problems/janeeyre)|janeeyre|Medium(3.0)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/janeeyre.py)|
 |[Join Strings](https://open.kattis.com/problems/joinstrings)|joinstrings|Medium(3.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/joinstrings.py)|
 |[Jumbled Compass](https://open.kattis.com/problems/compass)|compass|Easy(1.8)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/compass.py)|
-|[Knapsack](https://open.kattis.com/problems/knapsack)|knapsack|Easy(2.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/knapsack.py)|
+|[Knapsack](https://open.kattis.com/problems/knapsack)|knapsack|Easy(2.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/knapsack.cpp)|
 |[Last Dance](https://open.kattis.com/problems/lastdance)|lastdance|Medium(2.9)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/lastdance.py)|
 |[Letter Balloons](https://open.kattis.com/problems/letterballoons)|letterballoons|Medium(4.4)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/letterballoons.py)|
 |[Line Them Up](https://open.kattis.com/problems/lineup)|lineup|Easy(1.6)|True|[source](https://github.com/GanschowJosh/Kattis/blob/main/sol/lineup.py)|
@@ -202,12 +206,12 @@
 
 
 ---
-Total solved: 193
+Total solved: 198
 
-Total unsolved: 5
+Total unsolved: 4
 
-Average difficulty solved: 2.2184873949579824
+Average difficulty solved: 2.2584362139917684
 
-Average of last 10: 3.09
+Average of last 10: 3.87
 
 Highest Difficulty: 8.6 (browniecutting)
